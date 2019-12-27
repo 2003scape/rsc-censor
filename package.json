@@ -1,0 +1,31 @@
+{
+  "name": "@2003scape/rsc-censor",
+  "version": "1.0.0",
+  "description": "runescape classic chat censor and cache modification",
+  "main": "./src/index.js",
+  "bin": {
+    "rsc-censor": "./src/bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003scape/rsc-censor.git"
+  },
+  "keywords": [
+    "runescape",
+    "rsc",
+    "chat",
+    "censor",
+    "profanity",
+    "filter"
+  ],
+  "author": "2003Scape Team",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/2003scape/rsc-censor/issues"
+  },
+  "homepage": "https://github.com/2003scape/rsc-censor#readme",
+  "dependencies": {
+    "@2003scape/rsc-archiver": "^1.1.0",
+    "mkdirp-promise": "^5.0.1"
+  }
+}

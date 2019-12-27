@@ -1,0 +1,4295 @@
+[
+    {
+        "word": "ahole",
+        "ignore": null
+    },
+    {
+        "word": "aholes",
+        "ignore": null
+    },
+    {
+        "word": "anal",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": "s"
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "o",
+                "postfix": "y"
+            },
+            {
+                "prefix": null,
+                "postfix": "o"
+            },
+            {
+                "prefix": null,
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "anus",
+        "ignore": null
+    },
+    {
+        "word": "arse",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "d"
+            },
+            {
+                "prefix": "o",
+                "postfix": "l"
+            },
+            {
+                "prefix": "o",
+                "postfix": "r"
+            },
+            {
+                "prefix": "o",
+                "postfix": "s"
+            },
+            {
+                "prefix": "o",
+                "postfix": null
+            },
+            {
+                "prefix": "p",
+                "postfix": "c"
+            },
+            {
+                "prefix": "p",
+                "postfix": "d"
+            },
+            {
+                "prefix": "p",
+                "postfix": "l"
+            },
+            {
+                "prefix": "p",
+                "postfix": "n"
+            },
+            {
+                "prefix": "p",
+                "postfix": "r"
+            },
+            {
+                "prefix": "p",
+                "postfix": "s"
+            },
+            {
+                "prefix": "p",
+                "postfix": null
+            },
+            {
+                "prefix": "v",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "n"
+            }
+        ]
+    },
+    {
+        "word": "arses",
+        "ignore": [
+            {
+                "prefix": "o",
+                "postfix": "t"
+            },
+            {
+                "prefix": "p",
+                "postfix": "t"
+            },
+            {
+                "prefix": "p",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "asbandit",
+        "ignore": null
+    },
+    {
+        "word": "asbandits",
+        "ignore": null
+    },
+    {
+        "word": "ashole",
+        "ignore": null
+    },
+    {
+        "word": "asholes",
+        "ignore": null
+    },
+    {
+        "word": "asmonkey",
+        "ignore": null
+    },
+    {
+        "word": "asmonkeys",
+        "ignore": null
+    },
+    {
+        "word": "assbandit",
+        "ignore": null
+    },
+    {
+        "word": "assbandits",
+        "ignore": null
+    },
+    {
+        "word": "asshole",
+        "ignore": null
+    },
+    {
+        "word": "assholes",
+        "ignore": null
+    },
+    {
+        "word": "assmonkey",
+        "ignore": null
+    },
+    {
+        "word": "assmonkeys",
+        "ignore": null
+    },
+    {
+        "word": "asswipe",
+        "ignore": null
+    },
+    {
+        "word": "asswipes",
+        "ignore": null
+    },
+    {
+        "word": "autorune",
+        "ignore": null
+    },
+    {
+        "word": "baitch",
+        "ignore": null
+    },
+    {
+        "word": "baitches",
+        "ignore": null
+    },
+    {
+        "word": "baitchs",
+        "ignore": null
+    },
+    {
+        "word": "barstard",
+        "ignore": null
+    },
+    {
+        "word": "barstards",
+        "ignore": null
+    },
+    {
+        "word": "barsterd",
+        "ignore": null
+    },
+    {
+        "word": "barsterds",
+        "ignore": null
+    },
+    {
+        "word": "bastard",
+        "ignore": null
+    },
+    {
+        "word": "bastards",
+        "ignore": null
+    },
+    {
+        "word": "basterd",
+        "ignore": null
+    },
+    {
+        "word": "basterds",
+        "ignore": null
+    },
+    {
+        "word": "bellend",
+        "ignore": null
+    },
+    {
+        "word": "bellends",
+        "ignore": null
+    },
+    {
+        "word": "biatch",
+        "ignore": null
+    },
+    {
+        "word": "biatches",
+        "ignore": null
+    },
+    {
+        "word": "biatchs",
+        "ignore": null
+    },
+    {
+        "word": "bich",
+        "ignore": null
+    },
+    {
+        "word": "biches",
+        "ignore": null
+    },
+    {
+        "word": "bichs",
+        "ignore": null
+    },
+    {
+        "word": "biotch",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "biotches",
+        "ignore": null
+    },
+    {
+        "word": "biotchs",
+        "ignore": null
+    },
+    {
+        "word": "bisex",
+        "ignore": null
+    },
+    {
+        "word": "bitch",
+        "ignore": null
+    },
+    {
+        "word": "bitches",
+        "ignore": null
+    },
+    {
+        "word": "bitchs",
+        "ignore": null
+    },
+    {
+        "word": "blojob",
+        "ignore": null
+    },
+    {
+        "word": "blojobs",
+        "ignore": null
+    },
+    {
+        "word": "bloodrag",
+        "ignore": null
+    },
+    {
+        "word": "bloodrags",
+        "ignore": null
+    },
+    {
+        "word": "blowjob",
+        "ignore": null
+    },
+    {
+        "word": "blowjobs",
+        "ignore": null
+    },
+    {
+        "word": "blowme",
+        "ignore": null
+    },
+    {
+        "word": "boloc",
+        "ignore": null
+    },
+    {
+        "word": "bolock",
+        "ignore": null
+    },
+    {
+        "word": "bolocks",
+        "ignore": null
+    },
+    {
+        "word": "bolocs",
+        "ignore": null
+    },
+    {
+        "word": "bolok",
+        "ignore": null
+    },
+    {
+        "word": "boloks",
+        "ignore": null
+    },
+    {
+        "word": "bolox",
+        "ignore": null
+    },
+    {
+        "word": "bondage",
+        "ignore": null
+    },
+    {
+        "word": "boner",
+        "ignore": null
+    },
+    {
+        "word": "boners",
+        "ignore": null
+    },
+    {
+        "word": "boob",
+        "ignore": null
+    },
+    {
+        "word": "boobs",
+        "ignore": null
+    },
+    {
+        "word": "breast",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "p"
+            }
+        ]
+    },
+    {
+        "word": "breasts",
+        "ignore": null
+    },
+    {
+        "word": "bugga",
+        "ignore": null
+    },
+    {
+        "word": "buggas",
+        "ignore": null
+    },
+    {
+        "word": "bugger",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "s"
+            },
+            {
+                "prefix": "e",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "buggers",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "butmonkey",
+        "ignore": null
+    },
+    {
+        "word": "butmonkeys",
+        "ignore": null
+    },
+    {
+        "word": "butt",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "o"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "buttmonkey",
+        "ignore": null
+    },
+    {
+        "word": "buttmonkeys",
+        "ignore": null
+    },
+    {
+        "word": "butts",
+        "ignore": null
+    },
+    {
+        "word": "bych",
+        "ignore": null
+    },
+    {
+        "word": "byches",
+        "ignore": null
+    },
+    {
+        "word": "bychs",
+        "ignore": null
+    },
+    {
+        "word": "bytch",
+        "ignore": null
+    },
+    {
+        "word": "bytches",
+        "ignore": null
+    },
+    {
+        "word": "bytchs",
+        "ignore": null
+    },
+    {
+        "word": "cack",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "l"
+            }
+        ]
+    },
+    {
+        "word": "cacking",
+        "ignore": null
+    },
+    {
+        "word": "cacks",
+        "ignore": null
+    },
+    {
+        "word": "cheat",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "cheats",
+        "ignore": null
+    },
+    {
+        "word": "chink",
+        "ignore": null
+    },
+    {
+        "word": "chinks",
+        "ignore": null
+    },
+    {
+        "word": "chit",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "c"
+            }
+        ]
+    },
+    {
+        "word": "chits",
+        "ignore": null
+    },
+    {
+        "word": "cjb",
+        "ignore": null
+    },
+    {
+        "word": "clit",
+        "ignore": null
+    },
+    {
+        "word": "clits",
+        "ignore": null
+    },
+    {
+        "word": "coc",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "k"
+            },
+            {
+                "prefix": "e",
+                "postfix": "k"
+            },
+            {
+                "prefix": "n",
+                "postfix": "t"
+            },
+            {
+                "prefix": null,
+                "postfix": "k"
+            },
+            {
+                "prefix": null,
+                "postfix": "o"
+            }
+        ]
+    },
+    {
+        "word": "cocain",
+        "ignore": null
+    },
+    {
+        "word": "cocaine",
+        "ignore": null
+    },
+    {
+        "word": "cock",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "s"
+            },
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "e",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "l"
+            },
+            {
+                "prefix": null,
+                "postfix": "r"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "cocks",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "cocs",
+        "ignore": null
+    },
+    {
+        "word": "cok",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "e"
+            },
+            {
+                "prefix": "n",
+                "postfix": "e"
+            },
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "s"
+            },
+            {
+                "prefix": null,
+                "postfix": "y"
+            },
+            {
+                "prefix": null,
+                "postfix": "'"
+            },
+            {
+                "prefix": "?",
+                "postfix": "?"
+            }
+        ]
+    },
+    {
+        "word": "coke",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "d"
+            },
+            {
+                "prefix": "n",
+                "postfix": "d"
+            },
+            {
+                "prefix": "r",
+                "postfix": "d"
+            },
+            {
+                "prefix": null,
+                "postfix": "d"
+            },
+            {
+                "prefix": null,
+                "postfix": "r"
+            }
+        ]
+    },
+    {
+        "word": "coks",
+        "ignore": [
+            {
+                "prefix": "?",
+                "postfix": "?"
+            }
+        ]
+    },
+    {
+        "word": "condom",
+        "ignore": null
+    },
+    {
+        "word": "condoms",
+        "ignore": null
+    },
+    {
+        "word": "coon",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "s"
+            },
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "c",
+                "postfix": "s"
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "o",
+                "postfix": null
+            },
+            {
+                "prefix": "y",
+                "postfix": "s"
+            },
+            {
+                "prefix": "y",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "coons",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "y",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "coq",
+        "ignore": null
+    },
+    {
+        "word": "coqs",
+        "ignore": null
+    },
+    {
+        "word": "cox",
+        "ignore": null
+    },
+    {
+        "word": "crap",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "b"
+            },
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "h"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": "p"
+            },
+            {
+                "prefix": "s",
+                "postfix": "s"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "craps",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "creditcard",
+        "ignore": null
+    },
+    {
+        "word": "creditcards",
+        "ignore": null
+    },
+    {
+        "word": "crud",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "cum",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "c",
+                "postfix": "b"
+            },
+            {
+                "prefix": "i",
+                "postfix": null
+            },
+            {
+                "prefix": "l",
+                "postfix": null
+            },
+            {
+                "prefix": "n",
+                "postfix": "b"
+            },
+            {
+                "prefix": "o",
+                "postfix": "e"
+            },
+            {
+                "prefix": "r",
+                "postfix": "s"
+            },
+            {
+                "prefix": "r",
+                "postfix": "v"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            },
+            {
+                "prefix": "u",
+                "postfix": "b"
+            },
+            {
+                "prefix": null,
+                "postfix": "q"
+            }
+        ]
+    },
+    {
+        "word": "cuniling",
+        "ignore": null
+    },
+    {
+        "word": "cunt",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "h"
+            }
+        ]
+    },
+    {
+        "word": "cunts",
+        "ignore": null
+    },
+    {
+        "word": "cyber",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "n"
+            }
+        ]
+    },
+    {
+        "word": "cybered",
+        "ignore": null
+    },
+    {
+        "word": "cybering",
+        "ignore": null
+    },
+    {
+        "word": "cybers",
+        "ignore": null
+    },
+    {
+        "word": "damm",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "m"
+            }
+        ]
+    },
+    {
+        "word": "damms",
+        "ignore": null
+    },
+    {
+        "word": "damn",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "damns",
+        "ignore": null
+    },
+    {
+        "word": "dhick",
+        "ignore": null
+    },
+    {
+        "word": "dhicks",
+        "ignore": null
+    },
+    {
+        "word": "dhik",
+        "ignore": null
+    },
+    {
+        "word": "dhiks",
+        "ignore": null
+    },
+    {
+        "word": "dhix",
+        "ignore": null
+    },
+    {
+        "word": "dic",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "a"
+            },
+            {
+                "prefix": "a",
+                "postfix": "e"
+            },
+            {
+                "prefix": "a",
+                "postfix": "t"
+            },
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "b",
+                "postfix": "a"
+            },
+            {
+                "prefix": "d",
+                "postfix": "t"
+            },
+            {
+                "prefix": "e",
+                "postfix": "a"
+            },
+            {
+                "prefix": "e",
+                "postfix": "i"
+            },
+            {
+                "prefix": "e",
+                "postfix": "t"
+            },
+            {
+                "prefix": "e",
+                "postfix": null
+            },
+            {
+                "prefix": "i",
+                "postfix": "u"
+            },
+            {
+                "prefix": "i",
+                "postfix": null
+            },
+            {
+                "prefix": "n",
+                "postfix": "a"
+            },
+            {
+                "prefix": "n",
+                "postfix": "e"
+            },
+            {
+                "prefix": "n",
+                "postfix": "t"
+            },
+            {
+                "prefix": "n",
+                "postfix": "u"
+            },
+            {
+                "prefix": "o",
+                "postfix": "a"
+            },
+            {
+                "prefix": "o",
+                "postfix": "u"
+            },
+            {
+                "prefix": "o",
+                "postfix": null
+            },
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": "r",
+                "postfix": "t"
+            },
+            {
+                "prefix": "u",
+                "postfix": "e"
+            },
+            {
+                "prefix": "u",
+                "postfix": "i"
+            },
+            {
+                "prefix": "u",
+                "postfix": "r"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "h"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "dick",
+        "ignore": null
+    },
+    {
+        "word": "dicks",
+        "ignore": null
+    },
+    {
+        "word": "dics",
+        "ignore": null
+    },
+    {
+        "word": "dik",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "e"
+            },
+            {
+                "prefix": "a",
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "diks",
+        "ignore": null
+    },
+    {
+        "word": "dildo",
+        "ignore": null
+    },
+    {
+        "word": "dildoes",
+        "ignore": null
+    },
+    {
+        "word": "dildos",
+        "ignore": null
+    },
+    {
+        "word": "diq",
+        "ignore": null
+    },
+    {
+        "word": "diqs",
+        "ignore": null
+    },
+    {
+        "word": "dix",
+        "ignore": [
+            {
+                "prefix": "n",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "dumbass",
+        "ignore": null
+    },
+    {
+        "word": "ecstacy",
+        "ignore": null
+    },
+    {
+        "word": "ejaculat",
+        "ignore": null
+    },
+    {
+        "word": "ejaculate",
+        "ignore": null
+    },
+    {
+        "word": "ejaculated",
+        "ignore": null
+    },
+    {
+        "word": "ejaculates",
+        "ignore": null
+    },
+    {
+        "word": "ejaculating",
+        "ignore": null
+    },
+    {
+        "word": "ejaculation",
+        "ignore": null
+    },
+    {
+        "word": "erection",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "erections",
+        "ignore": null
+    },
+    {
+        "word": "excrement",
+        "ignore": null
+    },
+    {
+        "word": "excrements",
+        "ignore": null
+    },
+    {
+        "word": "excrete",
+        "ignore": null
+    },
+    {
+        "word": "excretes",
+        "ignore": null
+    },
+    {
+        "word": "fac",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "e"
+            },
+            {
+                "prefix": "e",
+                "postfix": "i"
+            },
+            {
+                "prefix": "e",
+                "postfix": "t"
+            },
+            {
+                "prefix": "i",
+                "postfix": "t"
+            },
+            {
+                "prefix": "l",
+                "postfix": "e"
+            },
+            {
+                "prefix": "n",
+                "postfix": "t"
+            },
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": "t",
+                "postfix": "e"
+            },
+            {
+                "prefix": "u",
+                "postfix": "t"
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            },
+            {
+                "prefix": null,
+                "postfix": "u"
+            }
+        ]
+    },
+    {
+        "word": "fack",
+        "ignore": null
+    },
+    {
+        "word": "facks",
+        "ignore": null
+    },
+    {
+        "word": "facs",
+        "ignore": null
+    },
+    {
+        "word": "faeces",
+        "ignore": null
+    },
+    {
+        "word": "fag",
+        "ignore": null
+    },
+    {
+        "word": "fagot",
+        "ignore": null
+    },
+    {
+        "word": "fagots",
+        "ignore": null
+    },
+    {
+        "word": "fags",
+        "ignore": null
+    },
+    {
+        "word": "fak",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "faks",
+        "ignore": null
+    },
+    {
+        "word": "fannies",
+        "ignore": null
+    },
+    {
+        "word": "fanny",
+        "ignore": null
+    },
+    {
+        "word": "fannys",
+        "ignore": null
+    },
+    {
+        "word": "fark",
+        "ignore": null
+    },
+    {
+        "word": "farks",
+        "ignore": null
+    },
+    {
+        "word": "fart",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "h"
+            }
+        ]
+    },
+    {
+        "word": "fck",
+        "ignore": null
+    },
+    {
+        "word": "fcks",
+        "ignore": null
+    },
+    {
+        "word": "fcuk",
+        "ignore": null
+    },
+    {
+        "word": "fcuks",
+        "ignore": null
+    },
+    {
+        "word": "fec",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "t"
+            },
+            {
+                "prefix": "e",
+                "postfix": "t"
+            },
+            {
+                "prefix": "f",
+                "postfix": "t"
+            },
+            {
+                "prefix": "n",
+                "postfix": "t"
+            },
+            {
+                "prefix": "o",
+                "postfix": "y"
+            },
+            {
+                "prefix": "r",
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "feck",
+        "ignore": null
+    },
+    {
+        "word": "fecks",
+        "ignore": null
+    },
+    {
+        "word": "fecs",
+        "ignore": null
+    },
+    {
+        "word": "feg",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "u"
+            },
+            {
+                "prefix": "i",
+                "postfix": "u"
+            }
+        ]
+    },
+    {
+        "word": "fegs",
+        "ignore": null
+    },
+    {
+        "word": "fek",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "feks",
+        "ignore": null
+    },
+    {
+        "word": "felat",
+        "ignore": null
+    },
+    {
+        "word": "felate",
+        "ignore": null
+    },
+    {
+        "word": "felates",
+        "ignore": null
+    },
+    {
+        "word": "felats",
+        "ignore": null
+    },
+    {
+        "word": "feq",
+        "ignore": null
+    },
+    {
+        "word": "feqs",
+        "ignore": null
+    },
+    {
+        "word": "fhuck",
+        "ignore": null
+    },
+    {
+        "word": "fhucks",
+        "ignore": null
+    },
+    {
+        "word": "fhuk",
+        "ignore": null
+    },
+    {
+        "word": "fhuks",
+        "ignore": null
+    },
+    {
+        "word": "fhuq",
+        "ignore": null
+    },
+    {
+        "word": "fhuqs",
+        "ignore": null
+    },
+    {
+        "word": "fk",
+        "ignore": null
+    },
+    {
+        "word": "fked",
+        "ignore": null
+    },
+    {
+        "word": "fker",
+        "ignore": null
+    },
+    {
+        "word": "fking",
+        "ignore": null
+    },
+    {
+        "word": "fks",
+        "ignore": null
+    },
+    {
+        "word": "foc",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "u"
+            },
+            {
+                "prefix": "f",
+                "postfix": "a"
+            },
+            {
+                "prefix": "u",
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "u"
+            }
+        ]
+    },
+    {
+        "word": "fock",
+        "ignore": null
+    },
+    {
+        "word": "focks",
+        "ignore": null
+    },
+    {
+        "word": "focs",
+        "ignore": null
+    },
+    {
+        "word": "foek",
+        "ignore": null
+    },
+    {
+        "word": "foeks",
+        "ignore": null
+    },
+    {
+        "word": "fok",
+        "ignore": null
+    },
+    {
+        "word": "foks",
+        "ignore": null
+    },
+    {
+        "word": "foq",
+        "ignore": null
+    },
+    {
+        "word": "foqs",
+        "ignore": null
+    },
+    {
+        "word": "fuc",
+        "ignore": null
+    },
+    {
+        "word": "fuck",
+        "ignore": null
+    },
+    {
+        "word": "fucked",
+        "ignore": null
+    },
+    {
+        "word": "fucker",
+        "ignore": null
+    },
+    {
+        "word": "fuckers",
+        "ignore": null
+    },
+    {
+        "word": "fucking",
+        "ignore": null
+    },
+    {
+        "word": "fucks",
+        "ignore": null
+    },
+    {
+        "word": "fucs",
+        "ignore": null
+    },
+    {
+        "word": "fudgepacker",
+        "ignore": null
+    },
+    {
+        "word": "fudgepackers",
+        "ignore": null
+    },
+    {
+        "word": "fuhk",
+        "ignore": null
+    },
+    {
+        "word": "fuhks",
+        "ignore": null
+    },
+    {
+        "word": "fuick",
+        "ignore": null
+    },
+    {
+        "word": "fuicks",
+        "ignore": null
+    },
+    {
+        "word": "fujpacker",
+        "ignore": null
+    },
+    {
+        "word": "fujpackers",
+        "ignore": null
+    },
+    {
+        "word": "fuk",
+        "ignore": null
+    },
+    {
+        "word": "fukc",
+        "ignore": null
+    },
+    {
+        "word": "fukcs",
+        "ignore": null
+    },
+    {
+        "word": "fuks",
+        "ignore": null
+    },
+    {
+        "word": "fuq",
+        "ignore": null
+    },
+    {
+        "word": "fuqs",
+        "ignore": null
+    },
+    {
+        "word": "fux",
+        "ignore": null
+    },
+    {
+        "word": "gangrape",
+        "ignore": null
+    },
+    {
+        "word": "gangraped",
+        "ignore": null
+    },
+    {
+        "word": "gangraper",
+        "ignore": null
+    },
+    {
+        "word": "gangrapers",
+        "ignore": null
+    },
+    {
+        "word": "gangrapes",
+        "ignore": null
+    },
+    {
+        "word": "gangraping",
+        "ignore": null
+    },
+    {
+        "word": "gay",
+        "ignore": null
+    },
+    {
+        "word": "gays",
+        "ignore": null
+    },
+    {
+        "word": "genital",
+        "ignore": null
+    },
+    {
+        "word": "genitals",
+        "ignore": null
+    },
+    {
+        "word": "gey",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "o",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "s"
+            }
+        ]
+    },
+    {
+        "word": "geys",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "ghay",
+        "ignore": null
+    },
+    {
+        "word": "ghays",
+        "ignore": null
+    },
+    {
+        "word": "ghey",
+        "ignore": null
+    },
+    {
+        "word": "gheys",
+        "ignore": null
+    },
+    {
+        "word": "hac",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "k"
+            },
+            {
+                "prefix": "w",
+                "postfix": "k"
+            }
+        ]
+    },
+    {
+        "word": "hack",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "l"
+            },
+            {
+                "prefix": "s",
+                "postfix": "s"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            },
+            {
+                "prefix": "w",
+                "postfix": "i"
+            },
+            {
+                "prefix": "w",
+                "postfix": "y"
+            },
+            {
+                "prefix": "w",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "hacked",
+        "ignore": null
+    },
+    {
+        "word": "hacker",
+        "ignore": null
+    },
+    {
+        "word": "hackers",
+        "ignore": null
+    },
+    {
+        "word": "hacking",
+        "ignore": null
+    },
+    {
+        "word": "hacks",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "hacs",
+        "ignore": null
+    },
+    {
+        "word": "hak",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "a"
+            },
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "haks",
+        "ignore": null
+    },
+    {
+        "word": "handjob",
+        "ignore": null
+    },
+    {
+        "word": "handjobs",
+        "ignore": null
+    },
+    {
+        "word": "haq",
+        "ignore": null
+    },
+    {
+        "word": "haqs",
+        "ignore": null
+    },
+    {
+        "word": "hash",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "hashish",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "heroin",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "hetro",
+        "ignore": null
+    },
+    {
+        "word": "hetroes",
+        "ignore": null
+    },
+    {
+        "word": "hetros",
+        "ignore": null
+    },
+    {
+        "word": "hitler",
+        "ignore": null
+    },
+    {
+        "word": "hitlers",
+        "ignore": null
+    },
+    {
+        "word": "homo",
+        "ignore": null
+    },
+    {
+        "word": "homoes",
+        "ignore": null
+    },
+    {
+        "word": "homos",
+        "ignore": null
+    },
+    {
+        "word": "hooker",
+        "ignore": null
+    },
+    {
+        "word": "hookers",
+        "ignore": null
+    },
+    {
+        "word": "hore",
+        "ignore": [
+            {
+                "prefix": "b",
+                "postfix": "n"
+            },
+            {
+                "prefix": "c",
+                "postfix": "s"
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "p",
+                "postfix": null
+            },
+            {
+                "prefix": "s",
+                "postfix": "s"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "n"
+            }
+        ]
+    },
+    {
+        "word": "hores",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "hornie",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": "r"
+            },
+            {
+                "prefix": "t",
+                "postfix": "s"
+            }
+        ]
+    },
+    {
+        "word": "hornier",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "horniest",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "horny",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "http",
+        "ignore": null
+    },
+    {
+        "word": "hump",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": "e"
+            },
+            {
+                "prefix": "t",
+                "postfix": "i"
+            },
+            {
+                "prefix": "t",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "h"
+            }
+        ]
+    },
+    {
+        "word": "humped",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "humping",
+        "ignore": [
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "humps",
+        "ignore": null
+    },
+    {
+        "word": "jiz",
+        "ignore": null
+    },
+    {
+        "word": "keyloger",
+        "ignore": null
+    },
+    {
+        "word": "keylogers",
+        "ignore": null
+    },
+    {
+        "word": "koc",
+        "ignore": null
+    },
+    {
+        "word": "kock",
+        "ignore": null
+    },
+    {
+        "word": "kocks",
+        "ignore": null
+    },
+    {
+        "word": "kocs",
+        "ignore": null
+    },
+    {
+        "word": "kok",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "a"
+            }
+        ]
+    },
+    {
+        "word": "koks",
+        "ignore": null
+    },
+    {
+        "word": "koq",
+        "ignore": null
+    },
+    {
+        "word": "koqs",
+        "ignore": null
+    },
+    {
+        "word": "krap",
+        "ignore": null
+    },
+    {
+        "word": "kraps",
+        "ignore": null
+    },
+    {
+        "word": "kunt",
+        "ignore": null
+    },
+    {
+        "word": "kunts",
+        "ignore": null
+    },
+    {
+        "word": "kweer",
+        "ignore": null
+    },
+    {
+        "word": "kweers",
+        "ignore": null
+    },
+    {
+        "word": "labia",
+        "ignore": null
+    },
+    {
+        "word": "labium",
+        "ignore": null
+    },
+    {
+        "word": "lesbian",
+        "ignore": null
+    },
+    {
+        "word": "lesbians",
+        "ignore": null
+    },
+    {
+        "word": "lesbo",
+        "ignore": null
+    },
+    {
+        "word": "lesboes",
+        "ignore": null
+    },
+    {
+        "word": "lesbos",
+        "ignore": null
+    },
+    {
+        "word": "lesy",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "lez",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "lezes",
+        "ignore": null
+    },
+    {
+        "word": "lick",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": "e"
+            },
+            {
+                "prefix": "c",
+                "postfix": "i"
+            },
+            {
+                "prefix": "c",
+                "postfix": "s"
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "f",
+                "postfix": "e"
+            },
+            {
+                "prefix": "f",
+                "postfix": "i"
+            },
+            {
+                "prefix": "f",
+                "postfix": null
+            },
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "l"
+            },
+            {
+                "prefix": "s",
+                "postfix": "n"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "licked",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "f",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "licking",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "f",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "licks",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "lsd",
+        "ignore": null
+    },
+    {
+        "word": "macro",
+        "ignore": null
+    },
+    {
+        "word": "macroes",
+        "ignore": null
+    },
+    {
+        "word": "macros",
+        "ignore": null
+    },
+    {
+        "word": "makro",
+        "ignore": null
+    },
+    {
+        "word": "makroes",
+        "ignore": null
+    },
+    {
+        "word": "makros",
+        "ignore": null
+    },
+    {
+        "word": "maqro",
+        "ignore": null
+    },
+    {
+        "word": "maqroes",
+        "ignore": null
+    },
+    {
+        "word": "maqros",
+        "ignore": null
+    },
+    {
+        "word": "marijuana",
+        "ignore": null
+    },
+    {
+        "word": "masterbat",
+        "ignore": null
+    },
+    {
+        "word": "masterbate",
+        "ignore": null
+    },
+    {
+        "word": "masterbated",
+        "ignore": null
+    },
+    {
+        "word": "masterbater",
+        "ignore": null
+    },
+    {
+        "word": "masterbaters",
+        "ignore": null
+    },
+    {
+        "word": "masterbating",
+        "ignore": null
+    },
+    {
+        "word": "masterbation",
+        "ignore": null
+    },
+    {
+        "word": "masturbat",
+        "ignore": null
+    },
+    {
+        "word": "masturbate",
+        "ignore": null
+    },
+    {
+        "word": "masturbated",
+        "ignore": null
+    },
+    {
+        "word": "masturbater",
+        "ignore": null
+    },
+    {
+        "word": "masturbaters",
+        "ignore": null
+    },
+    {
+        "word": "masturbating",
+        "ignore": null
+    },
+    {
+        "word": "masturbation",
+        "ignore": null
+    },
+    {
+        "word": "motherfucker",
+        "ignore": null
+    },
+    {
+        "word": "motherfuckers",
+        "ignore": null
+    },
+    {
+        "word": "motherfunker",
+        "ignore": null
+    },
+    {
+        "word": "motherfunkers",
+        "ignore": null
+    },
+    {
+        "word": "musterbat",
+        "ignore": null
+    },
+    {
+        "word": "musterbate",
+        "ignore": null
+    },
+    {
+        "word": "musterbated",
+        "ignore": null
+    },
+    {
+        "word": "musterbater",
+        "ignore": null
+    },
+    {
+        "word": "musterbaters",
+        "ignore": null
+    },
+    {
+        "word": "musterbating",
+        "ignore": null
+    },
+    {
+        "word": "musterbation",
+        "ignore": null
+    },
+    {
+        "word": "naked",
+        "ignore": null
+    },
+    {
+        "word": "natsi",
+        "ignore": null
+    },
+    {
+        "word": "natsis",
+        "ignore": null
+    },
+    {
+        "word": "natzi",
+        "ignore": null
+    },
+    {
+        "word": "natzis",
+        "ignore": null
+    },
+    {
+        "word": "nazi",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "nazis",
+        "ignore": null
+    },
+    {
+        "word": "negro",
+        "ignore": null
+    },
+    {
+        "word": "negroes",
+        "ignore": null
+    },
+    {
+        "word": "negros",
+        "ignore": null
+    },
+    {
+        "word": "nhiga",
+        "ignore": null
+    },
+    {
+        "word": "nhigas",
+        "ignore": null
+    },
+    {
+        "word": "nhiger",
+        "ignore": null
+    },
+    {
+        "word": "nhigers",
+        "ignore": null
+    },
+    {
+        "word": "nhigga",
+        "ignore": null
+    },
+    {
+        "word": "nhiggas",
+        "ignore": null
+    },
+    {
+        "word": "nhigger",
+        "ignore": null
+    },
+    {
+        "word": "nhiggers",
+        "ignore": null
+    },
+    {
+        "word": "niga",
+        "ignore": null
+    },
+    {
+        "word": "nigas",
+        "ignore": null
+    },
+    {
+        "word": "niger",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "nigers",
+        "ignore": null
+    },
+    {
+        "word": "nigga",
+        "ignore": null
+    },
+    {
+        "word": "niggas",
+        "ignore": null
+    },
+    {
+        "word": "nigger",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "niggers",
+        "ignore": null
+    },
+    {
+        "word": "nigr",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "a"
+            }
+        ]
+    },
+    {
+        "word": "nigrs",
+        "ignore": null
+    },
+    {
+        "word": "niple",
+        "ignore": null
+    },
+    {
+        "word": "niples",
+        "ignore": null
+    },
+    {
+        "word": "nipple",
+        "ignore": null
+    },
+    {
+        "word": "nipples",
+        "ignore": null
+    },
+    {
+        "word": "nonce",
+        "ignore": null
+    },
+    {
+        "word": "nonces",
+        "ignore": null
+    },
+    {
+        "word": "nude",
+        "ignore": null
+    },
+    {
+        "word": "nuts",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": null
+            },
+            {
+                "prefix": "d",
+                "postfix": null
+            },
+            {
+                "prefix": "h",
+                "postfix": null
+            },
+            {
+                "prefix": "l",
+                "postfix": null
+            },
+            {
+                "prefix": "t",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "h"
+            }
+        ]
+    },
+    {
+        "word": "oral",
+        "ignore": [
+            {
+                "prefix": "h",
+                "postfix": null
+            },
+            {
+                "prefix": "l",
+                "postfix": null
+            },
+            {
+                "prefix": "m",
+                "postfix": "e"
+            },
+            {
+                "prefix": "m",
+                "postfix": "i"
+            },
+            {
+                "prefix": "m",
+                "postfix": "l"
+            },
+            {
+                "prefix": "m",
+                "postfix": "s"
+            },
+            {
+                "prefix": "m",
+                "postfix": "y"
+            },
+            {
+                "prefix": "m",
+                "postfix": null
+            },
+            {
+                "prefix": "p",
+                "postfix": null
+            },
+            {
+                "prefix": "t",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "l"
+            },
+            {
+                "prefix": null,
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "orgasm",
+        "ignore": null
+    },
+    {
+        "word": "orgasmic",
+        "ignore": null
+    },
+    {
+        "word": "orgasms",
+        "ignore": null
+    },
+    {
+        "word": "paedo",
+        "ignore": null
+    },
+    {
+        "word": "paedoes",
+        "ignore": null
+    },
+    {
+        "word": "paedophil",
+        "ignore": null
+    },
+    {
+        "word": "paedophile",
+        "ignore": null
+    },
+    {
+        "word": "paedophiles",
+        "ignore": null
+    },
+    {
+        "word": "paedophils",
+        "ignore": null
+    },
+    {
+        "word": "paedos",
+        "ignore": null
+    },
+    {
+        "word": "panties",
+        "ignore": null
+    },
+    {
+        "word": "panty",
+        "ignore": null
+    },
+    {
+        "word": "password",
+        "ignore": null
+    },
+    {
+        "word": "passwords",
+        "ignore": null
+    },
+    {
+        "word": "pasword",
+        "ignore": null
+    },
+    {
+        "word": "paswords",
+        "ignore": null
+    },
+    {
+        "word": "pedo",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": "r",
+                "postfix": "s"
+            },
+            {
+                "prefix": "r",
+                "postfix": null
+            },
+            {
+                "prefix": "s",
+                "postfix": "m"
+            }
+        ]
+    },
+    {
+        "word": "pedoes",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "pedophil",
+        "ignore": null
+    },
+    {
+        "word": "pedophile",
+        "ignore": null
+    },
+    {
+        "word": "pedophiles",
+        "ignore": null
+    },
+    {
+        "word": "pedophils",
+        "ignore": null
+    },
+    {
+        "word": "pedos",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "penis",
+        "ignore": null
+    },
+    {
+        "word": "perv",
+        "ignore": [
+            {
+                "prefix": "m",
+                "postfix": "i"
+            },
+            {
+                "prefix": "u",
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            }
+        ]
+    },
+    {
+        "word": "pervert",
+        "ignore": null
+    },
+    {
+        "word": "perverts",
+        "ignore": null
+    },
+    {
+        "word": "pervs",
+        "ignore": null
+    },
+    {
+        "word": "phuff",
+        "ignore": null
+    },
+    {
+        "word": "phuffs",
+        "ignore": null
+    },
+    {
+        "word": "pillock",
+        "ignore": null
+    },
+    {
+        "word": "pillocks",
+        "ignore": null
+    },
+    {
+        "word": "pimp",
+        "ignore": null
+    },
+    {
+        "word": "pimped",
+        "ignore": null
+    },
+    {
+        "word": "pimping",
+        "ignore": null
+    },
+    {
+        "word": "pimps",
+        "ignore": null
+    },
+    {
+        "word": "piss",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "z"
+            }
+        ]
+    },
+    {
+        "word": "pissed",
+        "ignore": null
+    },
+    {
+        "word": "pisses",
+        "ignore": null
+    },
+    {
+        "word": "pissing",
+        "ignore": null
+    },
+    {
+        "word": "pofter",
+        "ignore": null
+    },
+    {
+        "word": "pofters",
+        "ignore": null
+    },
+    {
+        "word": "ponce",
+        "ignore": null
+    },
+    {
+        "word": "ponces",
+        "ignore": null
+    },
+    {
+        "word": "poofter",
+        "ignore": null
+    },
+    {
+        "word": "poofters",
+        "ignore": null
+    },
+    {
+        "word": "porn",
+        "ignore": null
+    },
+    {
+        "word": "porno",
+        "ignore": null
+    },
+    {
+        "word": "pric",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "o"
+            },
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "k"
+            },
+            {
+                "prefix": null,
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "prick",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "l"
+            }
+        ]
+    },
+    {
+        "word": "prics",
+        "ignore": null
+    },
+    {
+        "word": "prik",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "a"
+            }
+        ]
+    },
+    {
+        "word": "priks",
+        "ignore": null
+    },
+    {
+        "word": "prostitut",
+        "ignore": null
+    },
+    {
+        "word": "prostitute",
+        "ignore": null
+    },
+    {
+        "word": "prostitutes",
+        "ignore": null
+    },
+    {
+        "word": "prostituts",
+        "ignore": null
+    },
+    {
+        "word": "psword",
+        "ignore": null
+    },
+    {
+        "word": "pswords",
+        "ignore": null
+    },
+    {
+        "word": "puccy",
+        "ignore": null
+    },
+    {
+        "word": "puf",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "f"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            }
+        ]
+    },
+    {
+        "word": "pufs",
+        "ignore": null
+    },
+    {
+        "word": "pusi",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "n"
+            }
+        ]
+    },
+    {
+        "word": "puss",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "l"
+            },
+            {
+                "prefix": null,
+                "postfix": "z"
+            }
+        ]
+    },
+    {
+        "word": "pussy",
+        "ignore": null
+    },
+    {
+        "word": "pusy",
+        "ignore": null
+    },
+    {
+        "word": "pw",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "a"
+            },
+            {
+                "prefix": "i",
+                "postfix": "r"
+            },
+            {
+                "prefix": "m",
+                "postfix": "u"
+            },
+            {
+                "prefix": "u",
+                "postfix": "a"
+            },
+            {
+                "prefix": "u",
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "pword",
+        "ignore": null
+    },
+    {
+        "word": "pwords",
+        "ignore": null
+    },
+    {
+        "word": "pws",
+        "ignore": null
+    },
+    {
+        "word": "qok",
+        "ignore": null
+    },
+    {
+        "word": "qoks",
+        "ignore": null
+    },
+    {
+        "word": "queer",
+        "ignore": null
+    },
+    {
+        "word": "queers",
+        "ignore": null
+    },
+    {
+        "word": "qweer",
+        "ignore": null
+    },
+    {
+        "word": "qweers",
+        "ignore": null
+    },
+    {
+        "word": "raipe",
+        "ignore": null
+    },
+    {
+        "word": "raiped",
+        "ignore": null
+    },
+    {
+        "word": "raiper",
+        "ignore": null
+    },
+    {
+        "word": "raipers",
+        "ignore": null
+    },
+    {
+        "word": "raipes",
+        "ignore": null
+    },
+    {
+        "word": "raiping",
+        "ignore": null
+    },
+    {
+        "word": "raipist",
+        "ignore": null
+    },
+    {
+        "word": "rape",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "t"
+            },
+            {
+                "prefix": "c",
+                "postfix": "d"
+            },
+            {
+                "prefix": "c",
+                "postfix": "r"
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "d",
+                "postfix": "d"
+            },
+            {
+                "prefix": "g",
+                "postfix": "f"
+            },
+            {
+                "prefix": "g",
+                "postfix": "s"
+            },
+            {
+                "prefix": "g",
+                "postfix": "v"
+            },
+            {
+                "prefix": "g",
+                "postfix": null
+            },
+            {
+                "prefix": "t",
+                "postfix": "d"
+            },
+            {
+                "prefix": "t",
+                "postfix": "z"
+            },
+            {
+                "prefix": "w",
+                "postfix": "d"
+            },
+            {
+                "prefix": "w",
+                "postfix": "r"
+            }
+        ]
+    },
+    {
+        "word": "raped",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "d",
+                "postfix": null
+            },
+            {
+                "prefix": "t",
+                "postfix": null
+            },
+            {
+                "prefix": "w",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "raper",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": "s"
+            },
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "w",
+                "postfix": "s"
+            },
+            {
+                "prefix": "w",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "rapers",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            },
+            {
+                "prefix": "w",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "rapist",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "rectum",
+        "ignore": null
+    },
+    {
+        "word": "retard",
+        "ignore": null
+    },
+    {
+        "word": "retarded",
+        "ignore": null
+    },
+    {
+        "word": "retards",
+        "ignore": null
+    },
+    {
+        "word": "rshakz",
+        "ignore": null
+    },
+    {
+        "word": "rugmuncher",
+        "ignore": null
+    },
+    {
+        "word": "rugmunchers",
+        "ignore": null
+    },
+    {
+        "word": "runebot",
+        "ignore": null
+    },
+    {
+        "word": "runebots",
+        "ignore": null
+    },
+    {
+        "word": "scank",
+        "ignore": null
+    },
+    {
+        "word": "scanks",
+        "ignore": null
+    },
+    {
+        "word": "scanq",
+        "ignore": null
+    },
+    {
+        "word": "scanqs",
+        "ignore": null
+    },
+    {
+        "word": "schit",
+        "ignore": null
+    },
+    {
+        "word": "schits",
+        "ignore": null
+    },
+    {
+        "word": "screw",
+        "ignore": [
+            {
+                "prefix": "k",
+                "postfix": "e"
+            },
+            {
+                "prefix": "k",
+                "postfix": "s"
+            },
+            {
+                "prefix": "k",
+                "postfix": null
+            },
+            {
+                "prefix": "n",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "screwed",
+        "ignore": [
+            {
+                "prefix": "k",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "screwing",
+        "ignore": null
+    },
+    {
+        "word": "scrotum",
+        "ignore": null
+    },
+    {
+        "word": "scrotums",
+        "ignore": null
+    },
+    {
+        "word": "seks",
+        "ignore": [
+            {
+                "prefix": "?",
+                "postfix": "?"
+            }
+        ]
+    },
+    {
+        "word": "semen",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "t"
+            },
+            {
+                "prefix": "i",
+                "postfix": "t"
+            },
+            {
+                "prefix": "r",
+                "postfix": "t"
+            },
+            {
+                "prefix": "u",
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "sex",
+        "ignore": null
+    },
+    {
+        "word": "shag",
+        "ignore": null
+    },
+    {
+        "word": "shager",
+        "ignore": null
+    },
+    {
+        "word": "shagers",
+        "ignore": null
+    },
+    {
+        "word": "shaging",
+        "ignore": null
+    },
+    {
+        "word": "shags",
+        "ignore": null
+    },
+    {
+        "word": "shat",
+        "ignore": [
+            {
+                "prefix": "d",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "shats",
+        "ignore": null
+    },
+    {
+        "word": "shet",
+        "ignore": [
+            {
+                "prefix": "y",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "s"
+            },
+            {
+                "prefix": "?",
+                "postfix": "?"
+            }
+        ]
+    },
+    {
+        "word": "shets",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "shiet",
+        "ignore": null
+    },
+    {
+        "word": "shiets",
+        "ignore": null
+    },
+    {
+        "word": "shit",
+        "ignore": null
+    },
+    {
+        "word": "shited",
+        "ignore": null
+    },
+    {
+        "word": "shiter",
+        "ignore": null
+    },
+    {
+        "word": "shiting",
+        "ignore": null
+    },
+    {
+        "word": "shits",
+        "ignore": null
+    },
+    {
+        "word": "shiz",
+        "ignore": null
+    },
+    {
+        "word": "shiznit",
+        "ignore": null
+    },
+    {
+        "word": "shiznits",
+        "ignore": null
+    },
+    {
+        "word": "shlong",
+        "ignore": null
+    },
+    {
+        "word": "shlongs",
+        "ignore": null
+    },
+    {
+        "word": "shot5times",
+        "ignore": null
+    },
+    {
+        "word": "sht",
+        "ignore": [
+            {
+                "prefix": "i",
+                "postfix": "a"
+            }
+        ]
+    },
+    {
+        "word": "shti",
+        "ignore": null
+    },
+    {
+        "word": "shtis",
+        "ignore": null
+    },
+    {
+        "word": "shts",
+        "ignore": null
+    },
+    {
+        "word": "siht",
+        "ignore": null
+    },
+    {
+        "word": "skanc",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "skancs",
+        "ignore": null
+    },
+    {
+        "word": "skank",
+        "ignore": null
+    },
+    {
+        "word": "skanks",
+        "ignore": null
+    },
+    {
+        "word": "skanq",
+        "ignore": null
+    },
+    {
+        "word": "skanqs",
+        "ignore": null
+    },
+    {
+        "word": "slag",
+        "ignore": null
+    },
+    {
+        "word": "slags",
+        "ignore": null
+    },
+    {
+        "word": "slaper",
+        "ignore": null
+    },
+    {
+        "word": "slapers",
+        "ignore": null
+    },
+    {
+        "word": "slit",
+        "ignore": [
+            {
+                "prefix": "w",
+                "postfix": "s"
+            },
+            {
+                "prefix": "w",
+                "postfix": null
+            },
+            {
+                "prefix": null,
+                "postfix": "h"
+            }
+        ]
+    },
+    {
+        "word": "slut",
+        "ignore": null
+    },
+    {
+        "word": "sluts",
+        "ignore": null
+    },
+    {
+        "word": "smeg",
+        "ignore": null
+    },
+    {
+        "word": "smegs",
+        "ignore": null
+    },
+    {
+        "word": "sodomy",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "spank",
+        "ignore": null
+    },
+    {
+        "word": "spanked",
+        "ignore": null
+    },
+    {
+        "word": "spanker",
+        "ignore": null
+    },
+    {
+        "word": "spankers",
+        "ignore": null
+    },
+    {
+        "word": "spanking",
+        "ignore": null
+    },
+    {
+        "word": "spanks",
+        "ignore": null
+    },
+    {
+        "word": "spastic",
+        "ignore": null
+    },
+    {
+        "word": "spastics",
+        "ignore": null
+    },
+    {
+        "word": "sperm",
+        "ignore": null
+    },
+    {
+        "word": "sphincter",
+        "ignore": null
+    },
+    {
+        "word": "sphincters",
+        "ignore": null
+    },
+    {
+        "word": "spunk",
+        "ignore": null
+    },
+    {
+        "word": "spunks",
+        "ignore": null
+    },
+    {
+        "word": "sqank",
+        "ignore": null
+    },
+    {
+        "word": "sqanks",
+        "ignore": null
+    },
+    {
+        "word": "stalk",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "s"
+            }
+        ]
+    },
+    {
+        "word": "stalks",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "stfu",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "l"
+            },
+            {
+                "prefix": "e",
+                "postfix": "l"
+            },
+            {
+                "prefix": "i",
+                "postfix": "l"
+            },
+            {
+                "prefix": "u",
+                "postfix": "l"
+            }
+        ]
+    },
+    {
+        "word": "suc",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "c"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "h"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "r"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            },
+            {
+                "prefix": null,
+                "postfix": "u"
+            }
+        ]
+    },
+    {
+        "word": "sucer",
+        "ignore": null
+    },
+    {
+        "word": "sucers",
+        "ignore": null
+    },
+    {
+        "word": "suck",
+        "ignore": null
+    },
+    {
+        "word": "sucked",
+        "ignore": null
+    },
+    {
+        "word": "sucking",
+        "ignore": null
+    },
+    {
+        "word": "sucks",
+        "ignore": null
+    },
+    {
+        "word": "sucs",
+        "ignore": null
+    },
+    {
+        "word": "suk",
+        "ignore": null
+    },
+    {
+        "word": "suks",
+        "ignore": null
+    },
+    {
+        "word": "suqer",
+        "ignore": null
+    },
+    {
+        "word": "sux",
+        "ignore": null
+    },
+    {
+        "word": "sxy",
+        "ignore": null
+    },
+    {
+        "word": "tampon",
+        "ignore": null
+    },
+    {
+        "word": "testes",
+        "ignore": null
+    },
+    {
+        "word": "testicle",
+        "ignore": null
+    },
+    {
+        "word": "testicles",
+        "ignore": null
+    },
+    {
+        "word": "testis",
+        "ignore": null
+    },
+    {
+        "word": "throb",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": null
+            },
+            {
+                "prefix": "t",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "throbs",
+        "ignore": null
+    },
+    {
+        "word": "tit",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "u"
+            },
+            {
+                "prefix": "a",
+                "postfix": "y"
+            },
+            {
+                "prefix": "b",
+                "postfix": "l"
+            },
+            {
+                "prefix": "c",
+                "postfix": "e"
+            },
+            {
+                "prefix": "c",
+                "postfix": "i"
+            },
+            {
+                "prefix": "c",
+                "postfix": "y"
+            },
+            {
+                "prefix": "e",
+                "postfix": "e"
+            },
+            {
+                "prefix": "e",
+                "postfix": "i"
+            },
+            {
+                "prefix": "l",
+                "postfix": "u"
+            },
+            {
+                "prefix": "n",
+                "postfix": "a"
+            },
+            {
+                "prefix": "n",
+                "postfix": "e"
+            },
+            {
+                "prefix": "n",
+                "postfix": "i"
+            },
+            {
+                "prefix": "n",
+                "postfix": "l"
+            },
+            {
+                "prefix": "n",
+                "postfix": "y"
+            },
+            {
+                "prefix": "p",
+                "postfix": "u"
+            },
+            {
+                "prefix": "p",
+                "postfix": "y"
+            },
+            {
+                "prefix": "r",
+                "postfix": "e"
+            },
+            {
+                "prefix": "r",
+                "postfix": "i"
+            },
+            {
+                "prefix": "r",
+                "postfix": "u"
+            },
+            {
+                "prefix": "s",
+                "postfix": "c"
+            },
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": "s"
+            },
+            {
+                "prefix": "s",
+                "postfix": "u"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            },
+            {
+                "prefix": "t",
+                "postfix": "u"
+            },
+            {
+                "prefix": "u",
+                "postfix": "i"
+            },
+            {
+                "prefix": "u",
+                "postfix": "y"
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "b"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "h"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "l"
+            },
+            {
+                "prefix": null,
+                "postfix": "n"
+            },
+            {
+                "prefix": null,
+                "postfix": "r"
+            }
+        ]
+    },
+    {
+        "word": "tits",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "toolkit",
+        "ignore": null
+    },
+    {
+        "word": "toolkits",
+        "ignore": null
+    },
+    {
+        "word": "toser",
+        "ignore": null
+    },
+    {
+        "word": "tosers",
+        "ignore": null
+    },
+    {
+        "word": "tosser",
+        "ignore": null
+    },
+    {
+        "word": "tossers",
+        "ignore": null
+    },
+    {
+        "word": "tossr",
+        "ignore": null
+    },
+    {
+        "word": "tossrs",
+        "ignore": null
+    },
+    {
+        "word": "trojan",
+        "ignore": null
+    },
+    {
+        "word": "trojans",
+        "ignore": null
+    },
+    {
+        "word": "turd",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "a"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "turds",
+        "ignore": null
+    },
+    {
+        "word": "twat",
+        "ignore": [
+            {
+                "prefix": "l",
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "twats",
+        "ignore": null
+    },
+    {
+        "word": "undress",
+        "ignore": null
+    },
+    {
+        "word": "urinat",
+        "ignore": null
+    },
+    {
+        "word": "urinate",
+        "ignore": null
+    },
+    {
+        "word": "urinated",
+        "ignore": null
+    },
+    {
+        "word": "urinates",
+        "ignore": null
+    },
+    {
+        "word": "urinating",
+        "ignore": null
+    },
+    {
+        "word": "urinats",
+        "ignore": null
+    },
+    {
+        "word": "urine",
+        "ignore": [
+            {
+                "prefix": "f",
+                "postfix": "s"
+            }
+        ]
+    },
+    {
+        "word": "vadge",
+        "ignore": null
+    },
+    {
+        "word": "vadges",
+        "ignore": null
+    },
+    {
+        "word": "vagina",
+        "ignore": null
+    },
+    {
+        "word": "vaginas",
+        "ignore": null
+    },
+    {
+        "word": "vibrator",
+        "ignore": null
+    },
+    {
+        "word": "vibrators",
+        "ignore": null
+    },
+    {
+        "word": "virus",
+        "ignore": null
+    },
+    {
+        "word": "viruses",
+        "ignore": null
+    },
+    {
+        "word": "vittu",
+        "ignore": null
+    },
+    {
+        "word": "vittus",
+        "ignore": null
+    },
+    {
+        "word": "vze",
+        "ignore": null
+    },
+    {
+        "word": "wang",
+        "ignore": null
+    },
+    {
+        "word": "wangs",
+        "ignore": null
+    },
+    {
+        "word": "wank",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "wanked",
+        "ignore": null
+    },
+    {
+        "word": "wanker",
+        "ignore": null
+    },
+    {
+        "word": "wankers",
+        "ignore": null
+    },
+    {
+        "word": "wanking",
+        "ignore": null
+    },
+    {
+        "word": "wanks",
+        "ignore": null
+    },
+    {
+        "word": "whor",
+        "ignore": null
+    },
+    {
+        "word": "whore",
+        "ignore": null
+    },
+    {
+        "word": "whores",
+        "ignore": null
+    },
+    {
+        "word": "whors",
+        "ignore": null
+    },
+    {
+        "word": "wigger",
+        "ignore": null
+    },
+    {
+        "word": "wiggers",
+        "ignore": null
+    },
+    {
+        "word": "willies",
+        "ignore": null
+    },
+    {
+        "word": "willy",
+        "ignore": null
+    },
+    {
+        "word": "wnker",
+        "ignore": null
+    },
+    {
+        "word": "wnkers",
+        "ignore": null
+    },
+    {
+        "word": "wop",
+        "ignore": [
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "i"
+            },
+            {
+                "prefix": "s",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "wops",
+        "ignore": null
+    },
+    {
+        "word": "wtf",
+        "ignore": null
+    },
+    {
+        "word": "www",
+        "ignore": null
+    }
+]

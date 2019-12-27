@@ -1,0 +1,1990 @@
+[
+    {
+        "word": "123india",
+        "ignore": null
+    },
+    {
+        "word": "20m",
+        "ignore": null
+    },
+    {
+        "word": "2bmail",
+        "ignore": null
+    },
+    {
+        "word": "2ndmail",
+        "ignore": null
+    },
+    {
+        "word": "4a2z",
+        "ignore": null
+    },
+    {
+        "word": "4anything",
+        "ignore": null
+    },
+    {
+        "word": "5star",
+        "ignore": null
+    },
+    {
+        "word": "abercrombie",
+        "ignore": null
+    },
+    {
+        "word": "acmecity",
+        "ignore": null
+    },
+    {
+        "word": "acmemail",
+        "ignore": null
+    },
+    {
+        "word": "acont",
+        "ignore": null
+    },
+    {
+        "word": "advalvas",
+        "ignore": null
+    },
+    {
+        "word": "alloymail",
+        "ignore": null
+    },
+    {
+        "word": "altavista",
+        "ignore": null
+    },
+    {
+        "word": "altern",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "a"
+            }
+        ]
+    },
+    {
+        "word": "amexmail",
+        "ignore": null
+    },
+    {
+        "word": "amuro",
+        "ignore": null
+    },
+    {
+        "word": "anarchyonline",
+        "ignore": null
+    },
+    {
+        "word": "angelfire",
+        "ignore": null
+    },
+    {
+        "word": "animalhouse",
+        "ignore": null
+    },
+    {
+        "word": "animenation",
+        "ignore": null
+    },
+    {
+        "word": "aol",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": "e"
+            },
+            {
+                "prefix": "g",
+                "postfix": "e"
+            },
+            {
+                "prefix": "g",
+                "postfix": "i"
+            },
+            {
+                "prefix": "g",
+                "postfix": "s"
+            },
+            {
+                "prefix": "g",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "apexmail",
+        "ignore": null
+    },
+    {
+        "word": "apmail",
+        "ignore": null
+    },
+    {
+        "word": "aristotle",
+        "ignore": null
+    },
+    {
+        "word": "asean-mail",
+        "ignore": null
+    },
+    {
+        "word": "asheronscall",
+        "ignore": null
+    },
+    {
+        "word": "asianoffice",
+        "ignore": null
+    },
+    {
+        "word": "asiansonly",
+        "ignore": null
+    },
+    {
+        "word": "asianwired",
+        "ignore": null
+    },
+    {
+        "word": "atozasia",
+        "ignore": null
+    },
+    {
+        "word": "autonr",
+        "ignore": null
+    },
+    {
+        "word": "avidgamers",
+        "ignore": null
+    },
+    {
+        "word": "aw-online",
+        "ignore": null
+    },
+    {
+        "word": "axoskate",
+        "ignore": null
+    },
+    {
+        "word": "bannertown",
+        "ignore": null
+    },
+    {
+        "word": "basemail",
+        "ignore": null
+    },
+    {
+        "word": "bboy",
+        "ignore": null
+    },
+    {
+        "word": "beijingoffice",
+        "ignore": null
+    },
+    {
+        "word": "bellsouth",
+        "ignore": null
+    },
+    {
+        "word": "berlinoffice",
+        "ignore": null
+    },
+    {
+        "word": "bigfoot",
+        "ignore": null
+    },
+    {
+        "word": "bimamail",
+        "ignore": null
+    },
+    {
+        "word": "birdmail",
+        "ignore": null
+    },
+    {
+        "word": "bla-bla",
+        "ignore": null
+    },
+    {
+        "word": "blueyonder",
+        "ignore": null
+    },
+    {
+        "word": "bombdiggity",
+        "ignore": null
+    },
+    {
+        "word": "bostonoffice",
+        "ignore": null
+    },
+    {
+        "word": "bovinelabs",
+        "ignore": null
+    },
+    {
+        "word": "bravenet",
+        "ignore": null
+    },
+    {
+        "word": "brinkster",
+        "ignore": null
+    },
+    {
+        "word": "businessweekmail",
+        "ignore": null
+    },
+    {
+        "word": "bustamail",
+        "ignore": null
+    },
+    {
+        "word": "buyersusa",
+        "ignore": null
+    },
+    {
+        "word": "callsign",
+        "ignore": null
+    },
+    {
+        "word": "caramail",
+        "ignore": null
+    },
+    {
+        "word": "care2",
+        "ignore": null
+    },
+    {
+        "word": "careerbuildermail",
+        "ignore": null
+    },
+    {
+        "word": "casablancaresort",
+        "ignore": null
+    },
+    {
+        "word": "ccnmail",
+        "ignore": null
+    },
+    {
+        "word": "certifiedmail",
+        "ignore": null
+    },
+    {
+        "word": "chickmail",
+        "ignore": null
+    },
+    {
+        "word": "chipmail",
+        "ignore": null
+    },
+    {
+        "word": "christianmail",
+        "ignore": null
+    },
+    {
+        "word": "city2city",
+        "ignore": null
+    },
+    {
+        "word": "cmpnetmail",
+        "ignore": null
+    },
+    {
+        "word": "coldmail",
+        "ignore": null
+    },
+    {
+        "word": "collegebeat",
+        "ignore": null
+    },
+    {
+        "word": "collegeclub",
+        "ignore": null
+    },
+    {
+        "word": "collegemail",
+        "ignore": null
+    },
+    {
+        "word": "comicmail",
+        "ignore": null
+    },
+    {
+        "word": "communityconnect",
+        "ignore": null
+    },
+    {
+        "word": "comprendemail",
+        "ignore": null
+    },
+    {
+        "word": "conok",
+        "ignore": null
+    },
+    {
+        "word": "coollist",
+        "ignore": null
+    },
+    {
+        "word": "countrycool",
+        "ignore": null
+    },
+    {
+        "word": "crobos",
+        "ignore": null
+    },
+    {
+        "word": "cwebmail",
+        "ignore": null
+    },
+    {
+        "word": "cybercafemaui",
+        "ignore": null
+    },
+    {
+        "word": "cybergrrl",
+        "ignore": null
+    },
+    {
+        "word": "d4mail",
+        "ignore": null
+    },
+    {
+        "word": "dallasoffice",
+        "ignore": null
+    },
+    {
+        "word": "daoc",
+        "ignore": null
+    },
+    {
+        "word": "daru",
+        "ignore": null
+    },
+    {
+        "word": "dbzmail",
+        "ignore": null
+    },
+    {
+        "word": "dcemail",
+        "ignore": null
+    },
+    {
+        "word": "dcoffices",
+        "ignore": null
+    },
+    {
+        "word": "dejanews",
+        "ignore": null
+    },
+    {
+        "word": "deneg",
+        "ignore": null
+    },
+    {
+        "word": "depechemodemail",
+        "ignore": null
+    },
+    {
+        "word": "deseretmail",
+        "ignore": null
+    },
+    {
+        "word": "digitalmail",
+        "ignore": null
+    },
+    {
+        "word": "digitalmusicnation",
+        "ignore": null
+    },
+    {
+        "word": "directbox",
+        "ignore": null
+    },
+    {
+        "word": "doramail",
+        "ignore": null
+    },
+    {
+        "word": "dottk",
+        "ignore": null
+    },
+    {
+        "word": "dragonempires",
+        "ignore": null
+    },
+    {
+        "word": "dwp",
+        "ignore": null
+    },
+    {
+        "word": "dynamitemail",
+        "ignore": null
+    },
+    {
+        "word": "e247",
+        "ignore": null
+    },
+    {
+        "word": "earthonline",
+        "ignore": null
+    },
+    {
+        "word": "easyspace",
+        "ignore": null
+    },
+    {
+        "word": "ebay",
+        "ignore": null
+    },
+    {
+        "word": "ecompare",
+        "ignore": null
+    },
+    {
+        "word": "edmail",
+        "ignore": null
+    },
+    {
+        "word": "edtn",
+        "ignore": null
+    },
+    {
+        "word": "educastmail",
+        "ignore": null
+    },
+    {
+        "word": "ekidz",
+        "ignore": null
+    },
+    {
+        "word": "email-london",
+        "ignore": null
+    },
+    {
+        "word": "emailchoice",
+        "ignore": null
+    },
+    {
+        "word": "emailit",
+        "ignore": null
+    },
+    {
+        "word": "emailvista",
+        "ignore": null
+    },
+    {
+        "word": "emaster",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "entrepreneurmag",
+        "ignore": null
+    },
+    {
+        "word": "epost",
+        "ignore": [
+            {
+                "prefix": "r",
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "etoast",
+        "ignore": null
+    },
+    {
+        "word": "etrade",
+        "ignore": null
+    },
+    {
+        "word": "eudoramail",
+        "ignore": null
+    },
+    {
+        "word": "everquest",
+        "ignore": null
+    },
+    {
+        "word": "evilcowgod",
+        "ignore": null
+    },
+    {
+        "word": "expage",
+        "ignore": null
+    },
+    {
+        "word": "ezboard",
+        "ignore": null
+    },
+    {
+        "word": "ezzemail",
+        "ignore": null
+    },
+    {
+        "word": "fancemail",
+        "ignore": null
+    },
+    {
+        "word": "fastermail",
+        "ignore": null
+    },
+    {
+        "word": "fastmail",
+        "ignore": null
+    },
+    {
+        "word": "feierabend",
+        "ignore": null
+    },
+    {
+        "word": "fetchmail",
+        "ignore": null
+    },
+    {
+        "word": "fiberia",
+        "ignore": null
+    },
+    {
+        "word": "filetap",
+        "ignore": null
+    },
+    {
+        "word": "finfin",
+        "ignore": null
+    },
+    {
+        "word": "firstcampus",
+        "ignore": null
+    },
+    {
+        "word": "flairmail",
+        "ignore": null
+    },
+    {
+        "word": "flashemail",
+        "ignore": null
+    },
+    {
+        "word": "flashmail",
+        "ignore": null
+    },
+    {
+        "word": "floydmail",
+        "ignore": null
+    },
+    {
+        "word": "fnmail",
+        "ignore": null
+    },
+    {
+        "word": "fortunecity",
+        "ignore": null
+    },
+    {
+        "word": "france-mail",
+        "ignore": null
+    },
+    {
+        "word": "free-org",
+        "ignore": null
+    },
+    {
+        "word": "freeaccount",
+        "ignore": null
+    },
+    {
+        "word": "freebox",
+        "ignore": null
+    },
+    {
+        "word": "freemail",
+        "ignore": null
+    },
+    {
+        "word": "freestamp",
+        "ignore": null
+    },
+    {
+        "word": "freewebemail",
+        "ignore": null
+    },
+    {
+        "word": "fresnomail",
+        "ignore": null
+    },
+    {
+        "word": "funurl",
+        "ignore": null
+    },
+    {
+        "word": "gamespotmail",
+        "ignore": null
+    },
+    {
+        "word": "gee-wiz",
+        "ignore": null
+    },
+    {
+        "word": "geecities",
+        "ignore": null
+    },
+    {
+        "word": "geocities",
+        "ignore": null
+    },
+    {
+        "word": "geocitys",
+        "ignore": null
+    },
+    {
+        "word": "getmailfree",
+        "ignore": null
+    },
+    {
+        "word": "gh2000",
+        "ignore": null
+    },
+    {
+        "word": "gigileung",
+        "ignore": null
+    },
+    {
+        "word": "glay",
+        "ignore": null
+    },
+    {
+        "word": "glossy",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "gmx",
+        "ignore": null
+    },
+    {
+        "word": "gmxattachments",
+        "ignore": null
+    },
+    {
+        "word": "gnwmail",
+        "ignore": null
+    },
+    {
+        "word": "grabasite",
+        "ignore": null
+    },
+    {
+        "word": "grreat",
+        "ignore": null
+    },
+    {
+        "word": "gtemail",
+        "ignore": null
+    },
+    {
+        "word": "gurlmail",
+        "ignore": null
+    },
+    {
+        "word": "hanmail",
+        "ignore": null
+    },
+    {
+        "word": "hdvest",
+        "ignore": null
+    },
+    {
+        "word": "headbone",
+        "ignore": null
+    },
+    {
+        "word": "helbreath",
+        "ignore": null
+    },
+    {
+        "word": "hellbreath",
+        "ignore": null
+    },
+    {
+        "word": "hempseed",
+        "ignore": null
+    },
+    {
+        "word": "hitthebeach",
+        "ignore": null
+    },
+    {
+        "word": "hkg",
+        "ignore": null
+    },
+    {
+        "word": "homestead",
+        "ignore": null
+    },
+    {
+        "word": "host-it",
+        "ignore": null
+    },
+    {
+        "word": "hotee",
+        "ignore": null
+    },
+    {
+        "word": "hotepmail",
+        "ignore": null
+    },
+    {
+        "word": "hotmail",
+        "ignore": null
+    },
+    {
+        "word": "hotmale",
+        "ignore": null
+    },
+    {
+        "word": "hushmail",
+        "ignore": null
+    },
+    {
+        "word": "i-connect",
+        "ignore": null
+    },
+    {
+        "word": "i-mail",
+        "ignore": null
+    },
+    {
+        "word": "i-mailbox",
+        "ignore": null
+    },
+    {
+        "word": "icq",
+        "ignore": null
+    },
+    {
+        "word": "icqmail",
+        "ignore": null
+    },
+    {
+        "word": "id-base",
+        "ignore": null
+    },
+    {
+        "word": "ignmail",
+        "ignore": null
+    },
+    {
+        "word": "in-box",
+        "ignore": null
+    },
+    {
+        "word": "iname",
+        "ignore": null
+    },
+    {
+        "word": "indiatimes",
+        "ignore": null
+    },
+    {
+        "word": "indocities",
+        "ignore": null
+    },
+    {
+        "word": "infobank",
+        "ignore": null
+    },
+    {
+        "word": "internet-club",
+        "ignore": null
+    },
+    {
+        "word": "iobox",
+        "ignore": null
+    },
+    {
+        "word": "iqemail",
+        "ignore": null
+    },
+    {
+        "word": "isleuthmail",
+        "ignore": null
+    },
+    {
+        "word": "jagex3d",
+        "ignore": null
+    },
+    {
+        "word": "jahoopa",
+        "ignore": null
+    },
+    {
+        "word": "jaydemail",
+        "ignore": null
+    },
+    {
+        "word": "jewishmail",
+        "ignore": null
+    },
+    {
+        "word": "jipi",
+        "ignore": null
+    },
+    {
+        "word": "jippii",
+        "ignore": null
+    },
+    {
+        "word": "jmail",
+        "ignore": null
+    },
+    {
+        "word": "joymail",
+        "ignore": null
+    },
+    {
+        "word": "jpostmail",
+        "ignore": null
+    },
+    {
+        "word": "juniormail",
+        "ignore": null
+    },
+    {
+        "word": "juno",
+        "ignore": null
+    },
+    {
+        "word": "justicemail",
+        "ignore": null
+    },
+    {
+        "word": "kazaa",
+        "ignore": null
+    },
+    {
+        "word": "kebi",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "keftamail",
+        "ignore": null
+    },
+    {
+        "word": "keromail",
+        "ignore": null
+    },
+    {
+        "word": "kittymail",
+        "ignore": null
+    },
+    {
+        "word": "kmail",
+        "ignore": [
+            {
+                "prefix": "c",
+                "postfix": null
+            }
+        ]
+    },
+    {
+        "word": "kmsp",
+        "ignore": null
+    },
+    {
+        "word": "ksanmail",
+        "ignore": null
+    },
+    {
+        "word": "kube93mail",
+        "ignore": null
+    },
+    {
+        "word": "kurir",
+        "ignore": null
+    },
+    {
+        "word": "lakmail",
+        "ignore": null
+    },
+    {
+        "word": "laoffices",
+        "ignore": null
+    },
+    {
+        "word": "latinmail",
+        "ignore": null
+    },
+    {
+        "word": "linuxmail",
+        "ignore": null
+    },
+    {
+        "word": "loadmail",
+        "ignore": null
+    },
+    {
+        "word": "longhornmail",
+        "ignore": null
+    },
+    {
+        "word": "looksmart",
+        "ignore": null
+    },
+    {
+        "word": "lovefootball",
+        "ignore": null
+    },
+    {
+        "word": "lucidpc",
+        "ignore": null
+    },
+    {
+        "word": "lycos",
+        "ignore": [
+            {
+                "prefix": "g",
+                "postfix": "e"
+            }
+        ]
+    },
+    {
+        "word": "lycosemail",
+        "ignore": null
+    },
+    {
+        "word": "lycosmail",
+        "ignore": null
+    },
+    {
+        "word": "m321",
+        "ignore": null
+    },
+    {
+        "word": "macbox",
+        "ignore": null
+    },
+    {
+        "word": "madcreations",
+        "ignore": null
+    },
+    {
+        "word": "mail1st",
+        "ignore": null
+    },
+    {
+        "word": "mailcity",
+        "ignore": null
+    },
+    {
+        "word": "mailexcite",
+        "ignore": null
+    },
+    {
+        "word": "mailgate",
+        "ignore": null
+    },
+    {
+        "word": "mailops",
+        "ignore": null
+    },
+    {
+        "word": "mailpanda",
+        "ignore": null
+    },
+    {
+        "word": "mailplanet",
+        "ignore": null
+    },
+    {
+        "word": "mailspace",
+        "ignore": null
+    },
+    {
+        "word": "mailstart",
+        "ignore": null
+    },
+    {
+        "word": "mailstartplus",
+        "ignore": null
+    },
+    {
+        "word": "mailstates",
+        "ignore": null
+    },
+    {
+        "word": "mailtag",
+        "ignore": null
+    },
+    {
+        "word": "mailwire",
+        "ignore": null
+    },
+    {
+        "word": "maltesemail",
+        "ignore": null
+    },
+    {
+        "word": "mancity",
+        "ignore": null
+    },
+    {
+        "word": "mantramail",
+        "ignore": null
+    },
+    {
+        "word": "marchmail",
+        "ignore": null
+    },
+    {
+        "word": "mauimail",
+        "ignore": null
+    },
+    {
+        "word": "medmail",
+        "ignore": null
+    },
+    {
+        "word": "medscape",
+        "ignore": null
+    },
+    {
+        "word": "medsite",
+        "ignore": null
+    },
+    {
+        "word": "megapoint",
+        "ignore": null
+    },
+    {
+        "word": "merseymail",
+        "ignore": null
+    },
+    {
+        "word": "millionairemail",
+        "ignore": null
+    },
+    {
+        "word": "mini-mail",
+        "ignore": null
+    },
+    {
+        "word": "mixmail",
+        "ignore": null
+    },
+    {
+        "word": "mochamail",
+        "ignore": null
+    },
+    {
+        "word": "morrowind",
+        "ignore": null
+    },
+    {
+        "word": "moscowoffice",
+        "ignore": null
+    },
+    {
+        "word": "mrpost",
+        "ignore": null
+    },
+    {
+        "word": "msgbox",
+        "ignore": null
+    },
+    {
+        "word": "msgto",
+        "ignore": null
+    },
+    {
+        "word": "msn",
+        "ignore": null
+    },
+    {
+        "word": "muslimemail",
+        "ignore": null
+    },
+    {
+        "word": "mycampus",
+        "ignore": null
+    },
+    {
+        "word": "mycool",
+        "ignore": null
+    },
+    {
+        "word": "mygrabber",
+        "ignore": null
+    },
+    {
+        "word": "myneo",
+        "ignore": null
+    },
+    {
+        "word": "myownemail",
+        "ignore": null
+    },
+    {
+        "word": "mypad",
+        "ignore": null
+    },
+    {
+        "word": "mypersonalemail",
+        "ignore": null
+    },
+    {
+        "word": "myrealbox",
+        "ignore": null
+    },
+    {
+        "word": "n2mail",
+        "ignore": null
+    },
+    {
+        "word": "nameplanet",
+        "ignore": null
+    },
+    {
+        "word": "nandomail",
+        "ignore": null
+    },
+    {
+        "word": "netaddress",
+        "ignore": null
+    },
+    {
+        "word": "netfirms",
+        "ignore": null
+    },
+    {
+        "word": "netmanor",
+        "ignore": null
+    },
+    {
+        "word": "netnet",
+        "ignore": null
+    },
+    {
+        "word": "netnoir",
+        "ignore": null
+    },
+    {
+        "word": "netroamer",
+        "ignore": null
+    },
+    {
+        "word": "netscape",
+        "ignore": null
+    },
+    {
+        "word": "nettaxi",
+        "ignore": null
+    },
+    {
+        "word": "netwow",
+        "ignore": null
+    },
+    {
+        "word": "newmail",
+        "ignore": null
+    },
+    {
+        "word": "newyorkcity",
+        "ignore": null
+    },
+    {
+        "word": "newyorkoffice",
+        "ignore": null
+    },
+    {
+        "word": "nexxmail",
+        "ignore": null
+    },
+    {
+        "word": "nightmail",
+        "ignore": null
+    },
+    {
+        "word": "nimail",
+        "ignore": [
+            {
+                "prefix": "i",
+                "postfix": "l"
+            },
+            {
+                "prefix": "i",
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "norikomail",
+        "ignore": null
+    },
+    {
+        "word": "ntscan",
+        "ignore": null
+    },
+    {
+        "word": "officedomain",
+        "ignore": null
+    },
+    {
+        "word": "onenetnow",
+        "ignore": null
+    },
+    {
+        "word": "operamail",
+        "ignore": null
+    },
+    {
+        "word": "pakistanmail",
+        "ignore": null
+    },
+    {
+        "word": "parisoffice",
+        "ignore": null
+    },
+    {
+        "word": "parsmail",
+        "ignore": null
+    },
+    {
+        "word": "pbmail",
+        "ignore": null
+    },
+    {
+        "word": "pconnections",
+        "ignore": null
+    },
+    {
+        "word": "pemail",
+        "ignore": null
+    },
+    {
+        "word": "pinoymail",
+        "ignore": null
+    },
+    {
+        "word": "planetall",
+        "ignore": null
+    },
+    {
+        "word": "planetdirect",
+        "ignore": null
+    },
+    {
+        "word": "planetearthinter",
+        "ignore": null
+    },
+    {
+        "word": "planetside",
+        "ignore": null
+    },
+    {
+        "word": "pmail",
+        "ignore": null
+    },
+    {
+        "word": "pokefan",
+        "ignore": null
+    },
+    {
+        "word": "polbox",
+        "ignore": null
+    },
+    {
+        "word": "pop2web",
+        "ignore": null
+    },
+    {
+        "word": "popaccount",
+        "ignore": null
+    },
+    {
+        "word": "popchecker",
+        "ignore": null
+    },
+    {
+        "word": "popmail",
+        "ignore": null
+    },
+    {
+        "word": "portableoffice",
+        "ignore": null
+    },
+    {
+        "word": "postmaster",
+        "ignore": null
+    },
+    {
+        "word": "pousa",
+        "ignore": null
+    },
+    {
+        "word": "probemail",
+        "ignore": null
+    },
+    {
+        "word": "profimailer",
+        "ignore": null
+    },
+    {
+        "word": "prolaunch",
+        "ignore": null
+    },
+    {
+        "word": "prontomail",
+        "ignore": null
+    },
+    {
+        "word": "purpleturtle",
+        "ignore": null
+    },
+    {
+        "word": "quios",
+        "ignore": null
+    },
+    {
+        "word": "racemail",
+        "ignore": null
+    },
+    {
+        "word": "ragingbull",
+        "ignore": null
+    },
+    {
+        "word": "ratt-n-roll",
+        "ignore": null
+    },
+    {
+        "word": "readmail",
+        "ignore": null
+    },
+    {
+        "word": "realradiomail",
+        "ignore": null
+    },
+    {
+        "word": "rediffmail",
+        "ignore": null
+    },
+    {
+        "word": "redseven",
+        "ignore": null
+    },
+    {
+        "word": "registration",
+        "ignore": null
+    },
+    {
+        "word": "remarqmail",
+        "ignore": null
+    },
+    {
+        "word": "richmondhill",
+        "ignore": null
+    },
+    {
+        "word": "robotmail",
+        "ignore": null
+    },
+    {
+        "word": "rocketmail",
+        "ignore": null
+    },
+    {
+        "word": "romymichele",
+        "ignore": null
+    },
+    {
+        "word": "roosh",
+        "ignore": null
+    },
+    {
+        "word": "rshelp",
+        "ignore": null
+    },
+    {
+        "word": "rsnews",
+        "ignore": null
+    },
+    {
+        "word": "rsnmail",
+        "ignore": null
+    },
+    {
+        "word": "rsplanet",
+        "ignore": null
+    },
+    {
+        "word": "runbox",
+        "ignore": null
+    },
+    {
+        "word": "runescapehelp",
+        "ignore": null
+    },
+    {
+        "word": "runescapenews",
+        "ignore": null
+    },
+    {
+        "word": "runescapeplanet",
+        "ignore": null
+    },
+    {
+        "word": "sacbeemail",
+        "ignore": null
+    },
+    {
+        "word": "safarimail",
+        "ignore": null
+    },
+    {
+        "word": "sagra",
+        "ignore": null
+    },
+    {
+        "word": "saintmail",
+        "ignore": null
+    },
+    {
+        "word": "salu",
+        "ignore": [
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "o"
+            },
+            {
+                "prefix": null,
+                "postfix": "t"
+            }
+        ]
+    },
+    {
+        "word": "samilan",
+        "ignore": null
+    },
+    {
+        "word": "sawasdee",
+        "ignore": null
+    },
+    {
+        "word": "schoolemail",
+        "ignore": null
+    },
+    {
+        "word": "screenname",
+        "ignore": null
+    },
+    {
+        "word": "seattlelab",
+        "ignore": null
+    },
+    {
+        "word": "sfgiants",
+        "ignore": null
+    },
+    {
+        "word": "shadowbane",
+        "ignore": null
+    },
+    {
+        "word": "sharewaredevelopers",
+        "ignore": null
+    },
+    {
+        "word": "shorturl",
+        "ignore": null
+    },
+    {
+        "word": "shoutmail",
+        "ignore": null
+    },
+    {
+        "word": "skunkbox",
+        "ignore": null
+    },
+    {
+        "word": "smartvia",
+        "ignore": null
+    },
+    {
+        "word": "snoopymail",
+        "ignore": null
+    },
+    {
+        "word": "solidmedia",
+        "ignore": null
+    },
+    {
+        "word": "sonicnetmail",
+        "ignore": null
+    },
+    {
+        "word": "spanmail",
+        "ignore": null
+    },
+    {
+        "word": "speedymail",
+        "ignore": null
+    },
+    {
+        "word": "sphosting",
+        "ignore": null
+    },
+    {
+        "word": "spl",
+        "ignore": [
+            {
+                "prefix": "e",
+                "postfix": "i"
+            },
+            {
+                "prefix": "i",
+                "postfix": "a"
+            },
+            {
+                "prefix": "i",
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "a"
+            },
+            {
+                "prefix": null,
+                "postfix": "e"
+            },
+            {
+                "prefix": null,
+                "postfix": "i"
+            },
+            {
+                "prefix": null,
+                "postfix": "o"
+            }
+        ]
+    },
+    {
+        "word": "splendiferous",
+        "ignore": null
+    },
+    {
+        "word": "ssl",
+        "ignore": [
+            {
+                "prefix": "a",
+                "postfix": "a"
+            },
+            {
+                "prefix": "a",
+                "postfix": "e"
+            },
+            {
+                "prefix": "a",
+                "postfix": "i"
+            },
+            {
+                "prefix": "a",
+                "postfix": "y"
+            },
+            {
+                "prefix": "e",
+                "postfix": "y"
+            },
+            {
+                "prefix": "i",
+                "postfix": "e"
+            },
+            {
+                "prefix": "i",
+                "postfix": "i"
+            },
+            {
+                "prefix": "i",
+                "postfix": "y"
+            },
+            {
+                "prefix": "o",
+                "postfix": "e"
+            },
+            {
+                "prefix": "o",
+                "postfix": "y"
+            },
+            {
+                "prefix": "s",
+                "postfix": "a"
+            },
+            {
+                "prefix": "s",
+                "postfix": "e"
+            },
+            {
+                "prefix": "s",
+                "postfix": "y"
+            },
+            {
+                "prefix": "u",
+                "postfix": "e"
+            },
+            {
+                "prefix": "u",
+                "postfix": "i"
+            },
+            {
+                "prefix": "z",
+                "postfix": "e"
+            },
+            {
+                "prefix": "z",
+                "postfix": "i"
+            },
+            {
+                "prefix": "z",
+                "postfix": "y"
+            }
+        ]
+    },
+    {
+        "word": "starting-point",
+        "ignore": null
+    },
+    {
+        "word": "startmedia",
+        "ignore": null
+    },
+    {
+        "word": "startrekmail",
+        "ignore": null
+    },
+    {
+        "word": "startribune",
+        "ignore": null
+    },
+    {
+        "word": "stbmail",
+        "ignore": null
+    },
+    {
+        "word": "stealthmail",
+        "ignore": null
+    },
+    {
+        "word": "supernews",
+        "ignore": null
+    },
+    {
+        "word": "surfy",
+        "ignore": null
+    },
+    {
+        "word": "switchboardmail",
+        "ignore": null
+    },
+    {
+        "word": "sydneyoffice",
+        "ignore": null
+    },
+    {
+        "word": "t-email",
+        "ignore": null
+    },
+    {
+        "word": "talk21",
+        "ignore": null
+    },
+    {
+        "word": "tbwt",
+        "ignore": null
+    },
+    {
+        "word": "telekbird",
+        "ignore": null
+    },
+    {
+        "word": "thedoctorspostoffice",
+        "ignore": null
+    },
+    {
+        "word": "thedoghousemail",
+        "ignore": null
+    },
+    {
+        "word": "theheadoffice",
+        "ignore": null
+    },
+    {
+        "word": "thepassword",
+        "ignore": null
+    },
+    {
+        "word": "tipit",
+        "ignore": null
+    },
+    {
+        "word": "topteam",
+        "ignore": null
+    },
+    {
+        "word": "torchmail",
+        "ignore": null
+    },
+    {
+        "word": "total-recall-mailorder",
+        "ignore": null
+    },
+    {
+        "word": "totaltools",
+        "ignore": null
+    },
+    {
+        "word": "truthmail",
+        "ignore": null
+    },
+    {
+        "word": "uboot",
+        "ignore": null
+    },
+    {
+        "word": "ucs",
+        "ignore": null
+    },
+    {
+        "word": "ultimaonline",
+        "ignore": null
+    },
+    {
+        "word": "umailme",
+        "ignore": null
+    },
+    {
+        "word": "unicum",
+        "ignore": null
+    },
+    {
+        "word": "up2me",
+        "ignore": null
+    },
+    {
+        "word": "usulogin",
+        "ignore": null
+    },
+    {
+        "word": "uswestmail",
+        "ignore": null
+    },
+    {
+        "word": "utopiadevil",
+        "ignore": null
+    },
+    {
+        "word": "uymail",
+        "ignore": null
+    },
+    {
+        "word": "valise",
+        "ignore": null
+    },
+    {
+        "word": "vcmail",
+        "ignore": null
+    },
+    {
+        "word": "virginriver",
+        "ignore": null
+    },
+    {
+        "word": "virtual-mail",
+        "ignore": null
+    },
+    {
+        "word": "vlmail",
+        "ignore": null
+    },
+    {
+        "word": "vpop3",
+        "ignore": null
+    },
+    {
+        "word": "wallstreetview",
+        "ignore": null
+    },
+    {
+        "word": "web2mail",
+        "ignore": null
+    },
+    {
+        "word": "webinbox",
+        "ignore": null
+    },
+    {
+        "word": "webmail",
+        "ignore": null
+    },
+    {
+        "word": "webmailer",
+        "ignore": null
+    },
+    {
+        "word": "weezee",
+        "ignore": null
+    },
+    {
+        "word": "westmail",
+        "ignore": null
+    },
+    {
+        "word": "wickedmail",
+        "ignore": null
+    },
+    {
+        "word": "wildemail",
+        "ignore": null
+    },
+    {
+        "word": "winbox",
+        "ignore": null
+    },
+    {
+        "word": "winmx",
+        "ignore": null
+    },
+    {
+        "word": "wongfaye",
+        "ignore": null
+    },
+    {
+        "word": "world4you",
+        "ignore": null
+    },
+    {
+        "word": "worldmailer",
+        "ignore": null
+    },
+    {
+        "word": "wowmail",
+        "ignore": null
+    },
+    {
+        "word": "x-sport",
+        "ignore": null
+    },
+    {
+        "word": "xanga",
+        "ignore": null
+    },
+    {
+        "word": "xmail",
+        "ignore": null
+    },
+    {
+        "word": "xoommail",
+        "ignore": null
+    },
+    {
+        "word": "yachtemail",
+        "ignore": null
+    },
+    {
+        "word": "yahoo",
+        "ignore": null
+    },
+    {
+        "word": "yawmail",
+        "ignore": null
+    },
+    {
+        "word": "yesbox",
+        "ignore": null
+    },
+    {
+        "word": "ynnmail",
+        "ignore": null
+    },
+    {
+        "word": "youpy",
+        "ignore": null
+    },
+    {
+        "word": "yourmail",
+        "ignore": null
+    },
+    {
+        "word": "yyhmail",
+        "ignore": null
+    },
+    {
+        "word": "zcities",
+        "ignore": null
+    },
+    {
+        "word": "zdnetmail",
+        "ignore": null
+    },
+    {
+        "word": "zdnetonebox",
+        "ignore": null
+    },
+    {
+        "word": "zeeks",
+        "ignore": null
+    },
+    {
+        "word": "zensearch",
+        "ignore": null
+    },
+    {
+        "word": "znap",
+        "ignore": null
+    },
+    {
+        "word": "ziplip",
+        "ignore": null
+    },
+    {
+        "word": "zipmail",
+        "ignore": null
+    },
+    {
+        "word": "zxmail",
+        "ignore": null
+    },
+    {
+        "word": "zybez",
+        "ignore": null
+    },
+    {
+        "word": "zzn",
+        "ignore": null
+    }
+]

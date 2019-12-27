@@ -1,0 +1,1030 @@
+[
+    {
+        "word": "ac",
+        "type": 2
+    },
+    {
+        "word": "ad",
+        "type": 2
+    },
+    {
+        "word": "ae",
+        "type": 2
+    },
+    {
+        "word": "aero",
+        "type": 2
+    },
+    {
+        "word": "af",
+        "type": 3
+    },
+    {
+        "word": "ag",
+        "type": 2
+    },
+    {
+        "word": "ai",
+        "type": 2
+    },
+    {
+        "word": "al",
+        "type": 3
+    },
+    {
+        "word": "am",
+        "type": 3
+    },
+    {
+        "word": "an",
+        "type": 3
+    },
+    {
+        "word": "ao",
+        "type": 2
+    },
+    {
+        "word": "aq",
+        "type": 2
+    },
+    {
+        "word": "ar",
+        "type": 2
+    },
+    {
+        "word": "as",
+        "type": 3
+    },
+    {
+        "word": "at",
+        "type": 3
+    },
+    {
+        "word": "au",
+        "type": 2
+    },
+    {
+        "word": "aw",
+        "type": 3
+    },
+    {
+        "word": "az",
+        "type": 2
+    },
+    {
+        "word": "ba",
+        "type": 2
+    },
+    {
+        "word": "bb",
+        "type": 2
+    },
+    {
+        "word": "bd",
+        "type": 2
+    },
+    {
+        "word": "be",
+        "type": 3
+    },
+    {
+        "word": "bf",
+        "type": 2
+    },
+    {
+        "word": "bg",
+        "type": 2
+    },
+    {
+        "word": "bh",
+        "type": 2
+    },
+    {
+        "word": "bi",
+        "type": 2
+    },
+    {
+        "word": "biz",
+        "type": 2
+    },
+    {
+        "word": "bj",
+        "type": 2
+    },
+    {
+        "word": "bm",
+        "type": 2
+    },
+    {
+        "word": "bn",
+        "type": 2
+    },
+    {
+        "word": "bo",
+        "type": 2
+    },
+    {
+        "word": "br",
+        "type": 2
+    },
+    {
+        "word": "bs",
+        "type": 2
+    },
+    {
+        "word": "bt",
+        "type": 2
+    },
+    {
+        "word": "bv",
+        "type": 2
+    },
+    {
+        "word": "bw",
+        "type": 2
+    },
+    {
+        "word": "by",
+        "type": 3
+    },
+    {
+        "word": "bz",
+        "type": 2
+    },
+    {
+        "word": "ca",
+        "type": 2
+    },
+    {
+        "word": "cc",
+        "type": 2
+    },
+    {
+        "word": "cd",
+        "type": 2
+    },
+    {
+        "word": "cf",
+        "type": 2
+    },
+    {
+        "word": "cg",
+        "type": 2
+    },
+    {
+        "word": "ch",
+        "type": 2
+    },
+    {
+        "word": "ci",
+        "type": 2
+    },
+    {
+        "word": "ck",
+        "type": 2
+    },
+    {
+        "word": "cl",
+        "type": 2
+    },
+    {
+        "word": "cm",
+        "type": 2
+    },
+    {
+        "word": "cn",
+        "type": 2
+    },
+    {
+        "word": "co",
+        "type": 2
+    },
+    {
+        "word": "com",
+        "type": 1
+    },
+    {
+        "word": "coop",
+        "type": 2
+    },
+    {
+        "word": "cr",
+        "type": 2
+    },
+    {
+        "word": "cu",
+        "type": 2
+    },
+    {
+        "word": "cv",
+        "type": 2
+    },
+    {
+        "word": "cx",
+        "type": 2
+    },
+    {
+        "word": "cy",
+        "type": 2
+    },
+    {
+        "word": "cz",
+        "type": 2
+    },
+    {
+        "word": "de",
+        "type": 3
+    },
+    {
+        "word": "dj",
+        "type": 2
+    },
+    {
+        "word": "dk",
+        "type": 2
+    },
+    {
+        "word": "dm",
+        "type": 2
+    },
+    {
+        "word": "do",
+        "type": 3
+    },
+    {
+        "word": "dz",
+        "type": 2
+    },
+    {
+        "word": "ec",
+        "type": 2
+    },
+    {
+        "word": "edu",
+        "type": 2
+    },
+    {
+        "word": "ee",
+        "type": 2
+    },
+    {
+        "word": "eg",
+        "type": 2
+    },
+    {
+        "word": "eh",
+        "type": 3
+    },
+    {
+        "word": "er",
+        "type": 3
+    },
+    {
+        "word": "es",
+        "type": 3
+    },
+    {
+        "word": "et",
+        "type": 3
+    },
+    {
+        "word": "fi",
+        "type": 2
+    },
+    {
+        "word": "fj",
+        "type": 2
+    },
+    {
+        "word": "fk",
+        "type": 2
+    },
+    {
+        "word": "fm",
+        "type": 2
+    },
+    {
+        "word": "fo",
+        "type": 2
+    },
+    {
+        "word": "fr",
+        "type": 2
+    },
+    {
+        "word": "ga",
+        "type": 3
+    },
+    {
+        "word": "gd",
+        "type": 2
+    },
+    {
+        "word": "ge",
+        "type": 3
+    },
+    {
+        "word": "gf",
+        "type": 2
+    },
+    {
+        "word": "gg",
+        "type": 3
+    },
+    {
+        "word": "gh",
+        "type": 2
+    },
+    {
+        "word": "gi",
+        "type": 2
+    },
+    {
+        "word": "gl",
+        "type": 2
+    },
+    {
+        "word": "gm",
+        "type": 2
+    },
+    {
+        "word": "gn",
+        "type": 2
+    },
+    {
+        "word": "gov",
+        "type": 2
+    },
+    {
+        "word": "gp",
+        "type": 2
+    },
+    {
+        "word": "gq",
+        "type": 2
+    },
+    {
+        "word": "gr",
+        "type": 2
+    },
+    {
+        "word": "gs",
+        "type": 2
+    },
+    {
+        "word": "gt",
+        "type": 2
+    },
+    {
+        "word": "gu",
+        "type": 2
+    },
+    {
+        "word": "gw",
+        "type": 2
+    },
+    {
+        "word": "gy",
+        "type": 2
+    },
+    {
+        "word": "hk",
+        "type": 2
+    },
+    {
+        "word": "hm",
+        "type": 3
+    },
+    {
+        "word": "hn",
+        "type": 2
+    },
+    {
+        "word": "hr",
+        "type": 2
+    },
+    {
+        "word": "ht",
+        "type": 2
+    },
+    {
+        "word": "hu",
+        "type": 2
+    },
+    {
+        "word": "id",
+        "type": 3
+    },
+    {
+        "word": "ie",
+        "type": 2
+    },
+    {
+        "word": "il",
+        "type": 3
+    },
+    {
+        "word": "im",
+        "type": 3
+    },
+    {
+        "word": "in",
+        "type": 3
+    },
+    {
+        "word": "info",
+        "type": 2
+    },
+    {
+        "word": "int",
+        "type": 2
+    },
+    {
+        "word": "io",
+        "type": 2
+    },
+    {
+        "word": "iq",
+        "type": 2
+    },
+    {
+        "word": "ir",
+        "type": 2
+    },
+    {
+        "word": "is",
+        "type": 3
+    },
+    {
+        "word": "it",
+        "type": 3
+    },
+    {
+        "word": "je",
+        "type": 3
+    },
+    {
+        "word": "jm",
+        "type": 2
+    },
+    {
+        "word": "jo",
+        "type": 2
+    },
+    {
+        "word": "jp",
+        "type": 2
+    },
+    {
+        "word": "ke",
+        "type": 2
+    },
+    {
+        "word": "kg",
+        "type": 2
+    },
+    {
+        "word": "kh",
+        "type": 2
+    },
+    {
+        "word": "ki",
+        "type": 2
+    },
+    {
+        "word": "km",
+        "type": 2
+    },
+    {
+        "word": "kn",
+        "type": 2
+    },
+    {
+        "word": "kp",
+        "type": 2
+    },
+    {
+        "word": "kr",
+        "type": 2
+    },
+    {
+        "word": "kw",
+        "type": 2
+    },
+    {
+        "word": "ky",
+        "type": 2
+    },
+    {
+        "word": "kz",
+        "type": 2
+    },
+    {
+        "word": "la",
+        "type": 2
+    },
+    {
+        "word": "lb",
+        "type": 2
+    },
+    {
+        "word": "lc",
+        "type": 2
+    },
+    {
+        "word": "li",
+        "type": 2
+    },
+    {
+        "word": "lk",
+        "type": 2
+    },
+    {
+        "word": "lr",
+        "type": 2
+    },
+    {
+        "word": "ls",
+        "type": 2
+    },
+    {
+        "word": "lt",
+        "type": 2
+    },
+    {
+        "word": "lu",
+        "type": 2
+    },
+    {
+        "word": "lv",
+        "type": 2
+    },
+    {
+        "word": "ly",
+        "type": 2
+    },
+    {
+        "word": "ma",
+        "type": 3
+    },
+    {
+        "word": "mc",
+        "type": 2
+    },
+    {
+        "word": "md",
+        "type": 2
+    },
+    {
+        "word": "mg",
+        "type": 2
+    },
+    {
+        "word": "mh",
+        "type": 2
+    },
+    {
+        "word": "mil",
+        "type": 2
+    },
+    {
+        "word": "mk",
+        "type": 2
+    },
+    {
+        "word": "ml",
+        "type": 2
+    },
+    {
+        "word": "mm",
+        "type": 2
+    },
+    {
+        "word": "mn",
+        "type": 2
+    },
+    {
+        "word": "mo",
+        "type": 2
+    },
+    {
+        "word": "mp",
+        "type": 2
+    },
+    {
+        "word": "mq",
+        "type": 2
+    },
+    {
+        "word": "mr",
+        "type": 3
+    },
+    {
+        "word": "ms",
+        "type": 3
+    },
+    {
+        "word": "mt",
+        "type": 2
+    },
+    {
+        "word": "mu",
+        "type": 2
+    },
+    {
+        "word": "museum",
+        "type": 2
+    },
+    {
+        "word": "mv",
+        "type": 2
+    },
+    {
+        "word": "mw",
+        "type": 2
+    },
+    {
+        "word": "mx",
+        "type": 2
+    },
+    {
+        "word": "my",
+        "type": 3
+    },
+    {
+        "word": "mz",
+        "type": 2
+    },
+    {
+        "word": "na",
+        "type": 2
+    },
+    {
+        "word": "name",
+        "type": 2
+    },
+    {
+        "word": "nc",
+        "type": 2
+    },
+    {
+        "word": "ne",
+        "type": 2
+    },
+    {
+        "word": "net",
+        "type": 2
+    },
+    {
+        "word": "nf",
+        "type": 2
+    },
+    {
+        "word": "ng",
+        "type": 2
+    },
+    {
+        "word": "ni",
+        "type": 3
+    },
+    {
+        "word": "nl",
+        "type": 2
+    },
+    {
+        "word": "no",
+        "type": 3
+    },
+    {
+        "word": "np",
+        "type": 2
+    },
+    {
+        "word": "nr",
+        "type": 2
+    },
+    {
+        "word": "nu",
+        "type": 3
+    },
+    {
+        "word": "nz",
+        "type": 2
+    },
+    {
+        "word": "om",
+        "type": 2
+    },
+    {
+        "word": "org",
+        "type": 1
+    },
+    {
+        "word": "pa",
+        "type": 2
+    },
+    {
+        "word": "pe",
+        "type": 2
+    },
+    {
+        "word": "pf",
+        "type": 2
+    },
+    {
+        "word": "pg",
+        "type": 2
+    },
+    {
+        "word": "ph",
+        "type": 2
+    },
+    {
+        "word": "pk",
+        "type": 2
+    },
+    {
+        "word": "pl",
+        "type": 2
+    },
+    {
+        "word": "pm",
+        "type": 2
+    },
+    {
+        "word": "pn",
+        "type": 2
+    },
+    {
+        "word": "pr",
+        "type": 2
+    },
+    {
+        "word": "pro",
+        "type": 2
+    },
+    {
+        "word": "ps",
+        "type": 3
+    },
+    {
+        "word": "pt",
+        "type": 2
+    },
+    {
+        "word": "pw",
+        "type": 2
+    },
+    {
+        "word": "py",
+        "type": 2
+    },
+    {
+        "word": "qa",
+        "type": 2
+    },
+    {
+        "word": "re",
+        "type": 2
+    },
+    {
+        "word": "ro",
+        "type": 2
+    },
+    {
+        "word": "ru",
+        "type": 2
+    },
+    {
+        "word": "rw",
+        "type": 2
+    },
+    {
+        "word": "sa",
+        "type": 2
+    },
+    {
+        "word": "sb",
+        "type": 2
+    },
+    {
+        "word": "sc",
+        "type": 2
+    },
+    {
+        "word": "sd",
+        "type": 2
+    },
+    {
+        "word": "se",
+        "type": 3
+    },
+    {
+        "word": "sg",
+        "type": 2
+    },
+    {
+        "word": "sh",
+        "type": 3
+    },
+    {
+        "word": "si",
+        "type": 2
+    },
+    {
+        "word": "sj",
+        "type": 2
+    },
+    {
+        "word": "sk",
+        "type": 2
+    },
+    {
+        "word": "sl",
+        "type": 2
+    },
+    {
+        "word": "sm",
+        "type": 2
+    },
+    {
+        "word": "sn",
+        "type": 2
+    },
+    {
+        "word": "so",
+        "type": 3
+    },
+    {
+        "word": "sr",
+        "type": 2
+    },
+    {
+        "word": "st",
+        "type": 2
+    },
+    {
+        "word": "sv",
+        "type": 2
+    },
+    {
+        "word": "sy",
+        "type": 2
+    },
+    {
+        "word": "sz",
+        "type": 2
+    },
+    {
+        "word": "tc",
+        "type": 2
+    },
+    {
+        "word": "td",
+        "type": 2
+    },
+    {
+        "word": "tf",
+        "type": 2
+    },
+    {
+        "word": "tg",
+        "type": 2
+    },
+    {
+        "word": "th",
+        "type": 2
+    },
+    {
+        "word": "tj",
+        "type": 2
+    },
+    {
+        "word": "tk",
+        "type": 2
+    },
+    {
+        "word": "tm",
+        "type": 2
+    },
+    {
+        "word": "tn",
+        "type": 2
+    },
+    {
+        "word": "to",
+        "type": 3
+    },
+    {
+        "word": "tp",
+        "type": 2
+    },
+    {
+        "word": "tr",
+        "type": 2
+    },
+    {
+        "word": "tt",
+        "type": 2
+    },
+    {
+        "word": "tv",
+        "type": 2
+    },
+    {
+        "word": "tw",
+        "type": 2
+    },
+    {
+        "word": "tz",
+        "type": 2
+    },
+    {
+        "word": "ua",
+        "type": 2
+    },
+    {
+        "word": "ug",
+        "type": 2
+    },
+    {
+        "word": "uk",
+        "type": 2
+    },
+    {
+        "word": "um",
+        "type": 3
+    },
+    {
+        "word": "us",
+        "type": 3
+    },
+    {
+        "word": "uy",
+        "type": 2
+    },
+    {
+        "word": "uz",
+        "type": 2
+    },
+    {
+        "word": "va",
+        "type": 2
+    },
+    {
+        "word": "vc",
+        "type": 2
+    },
+    {
+        "word": "ve",
+        "type": 3
+    },
+    {
+        "word": "vg",
+        "type": 2
+    },
+    {
+        "word": "vi",
+        "type": 2
+    },
+    {
+        "word": "vn",
+        "type": 2
+    },
+    {
+        "word": "vu",
+        "type": 2
+    },
+    {
+        "word": "wf",
+        "type": 2
+    },
+    {
+        "word": "ws",
+        "type": 2
+    },
+    {
+        "word": "ye",
+        "type": 2
+    },
+    {
+        "word": "yt",
+        "type": 2
+    },
+    {
+        "word": "yu",
+        "type": 2
+    },
+    {
+        "word": "za",
+        "type": 2
+    },
+    {
+        "word": "zm",
+        "type": 2
+    },
+    {
+        "word": "zw",
+        "type": 2
+    }
+]
